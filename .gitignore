@@ -4,6 +4,6 @@
 .env.test.local
 .env.production.local
 .env.local
+cov/
 denoKv/
 node_modules/
-cov/
