@@ -1,0 +1,51 @@
+{
+  "scriptId": "514",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/langgraph/0.0.3/dist/pregel/io.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1711, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapInput",
+      "ranges": [
+        { "startOffset": 96, "endOffset": 798, "count": 2 },
+        { "startOffset": 355, "endOffset": 796, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapOutput",
+      "ranges": [
+        { "startOffset": 882, "endOffset": 1710, "count": 16 },
+        { "startOffset": 1116, "endOffset": 1258, "count": 8 },
+        { "startOffset": 1190, "endOffset": 1252, "count": 1 },
+        { "startOffset": 1258, "endOffset": 1686, "count": 8 },
+        { "startOffset": 1445, "endOffset": 1680, "count": 4 },
+        { "startOffset": 1686, "endOffset": 1709, "count": 11 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1149, "endOffset": 1187, "count": 12 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1328, "endOffset": 1372, "count": 12 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1391, "endOffset": 1410, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1556, "endOffset": 1664, "count": 4 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

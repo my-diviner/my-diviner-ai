@@ -1,0 +1,61 @@
+{
+  "scriptId": "449",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/langgraph/0.0.3/dist/graph/state.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3827, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "StateGraph",
+      "ranges": [{ "startOffset": 452, "endOffset": 729, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compile",
+      "ranges": [
+        { "startOffset": 734, "endOffset": 3145, "count": 2 },
+        { "startOffset": 856, "endOffset": 938, "count": 0 },
+        { "startOffset": 1241, "endOffset": 1246, "count": 0 },
+        { "startOffset": 1418, "endOffset": 1599, "count": 4 },
+        { "startOffset": 1651, "endOffset": 2407, "count": 4 },
+        { "startOffset": 1772, "endOffset": 1793, "count": 2 },
+        { "startOffset": 1999, "endOffset": 2100, "count": 2 },
+        { "startOffset": 2137, "endOffset": 2397, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 824, "endOffset": 853, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "func",
+      "ranges": [{ "startOffset": 2308, "endOffset": 2339, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3032, "endOffset": 3057, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_updateState",
+      "ranges": [
+        { "startOffset": 3148, "endOffset": 3484, "count": 8 },
+        { "startOffset": 3342, "endOffset": 3415, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_getChannels",
+      "ranges": [
+        { "startOffset": 3485, "endOffset": 3826, "count": 2 },
+        { "startOffset": 3726, "endOffset": 3797, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

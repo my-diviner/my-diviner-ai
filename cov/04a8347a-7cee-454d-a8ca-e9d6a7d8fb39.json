@@ -1,0 +1,11 @@
+{
+  "scriptId": "552",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/openai/1.0.0-beta.11/dist-esm/src/rest/responses.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 123, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

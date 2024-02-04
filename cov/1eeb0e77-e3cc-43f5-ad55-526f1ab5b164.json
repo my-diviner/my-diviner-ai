@@ -1,0 +1,32 @@
+{
+  "scriptId": "447",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/zod-to-json-schema/3.22.4/dist/esm/zodToJsonSchema.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1630, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "zodToJsonSchema",
+      "ranges": [
+        { "startOffset": 103, "endOffset": 1600, "count": 1 },
+        { "startOffset": 213, "endOffset": 235, "count": 0 },
+        { "startOffset": 244, "endOffset": 525, "count": 0 },
+        { "startOffset": 592, "endOffset": 601, "count": 0 },
+        { "startOffset": 611, "endOffset": 617, "count": 0 },
+        { "startOffset": 700, "endOffset": 806, "count": 0 },
+        { "startOffset": 815, "endOffset": 820, "count": 0 },
+        { "startOffset": 896, "endOffset": 990, "count": 0 },
+        { "startOffset": 1018, "endOffset": 1325, "count": 0 },
+        { "startOffset": 1443, "endOffset": 1577, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 289, "endOffset": 520, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

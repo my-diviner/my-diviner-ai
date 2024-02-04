@@ -1,0 +1,61 @@
+{
+  "scriptId": "499",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/utils/fast-json-patch/src/duplex.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7461, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Mirror",
+      "ranges": [{ "startOffset": 345, "endOffset": 923, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ObserverInfo",
+      "ranges": [{ "startOffset": 951, "endOffset": 1414, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getMirror",
+      "ranges": [{ "startOffset": 1417, "endOffset": 1476, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getObserverFromMirror",
+      "ranges": [{ "startOffset": 1477, "endOffset": 1572, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeObserverFromMirror",
+      "ranges": [{ "startOffset": 1573, "endOffset": 1676, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "unobserve",
+      "ranges": [{ "startOffset": 1729, "endOffset": 1793, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "observe",
+      "ranges": [{ "startOffset": 1891, "endOffset": 3699, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "generate",
+      "ranges": [{ "startOffset": 3764, "endOffset": 4232, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_generate",
+      "ranges": [{ "startOffset": 4316, "endOffset": 7228, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compare",
+      "ranges": [{ "startOffset": 7310, "endOffset": 7460, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

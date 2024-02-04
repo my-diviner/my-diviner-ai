@@ -1,0 +1,26 @@
+{
+  "scriptId": "394",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/lib/ChatCompletionStreamingRunner.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 715, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fromReadableStream",
+      "ranges": [{ "startOffset": 226, "endOffset": 306, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "runFunctions",
+      "ranges": [{ "startOffset": 313, "endOffset": 465, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "runTools",
+      "ranges": [{ "startOffset": 472, "endOffset": 612, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

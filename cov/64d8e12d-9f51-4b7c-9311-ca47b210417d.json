@@ -1,0 +1,55 @@
+{
+  "scriptId": "313",
+  "url": "https://deno.land/std@0.211.0/dotenv/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9988, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "loadSync",
+      "ranges": [
+        { "startOffset": 7029, "endOffset": 7730, "count": 1 },
+        { "startOffset": 7237, "endOffset": 7241, "count": 0 },
+        { "startOffset": 7353, "endOffset": 7435, "count": 0 },
+        { "startOffset": 7613, "endOffset": 7709, "count": 8 },
+        { "startOffset": 7658, "endOffset": 7667, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "load",
+      "ranges": [{ "startOffset": 7738, "endOffset": 8447, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseFileSync",
+      "ranges": [
+        { "startOffset": 8448, "endOffset": 8630, "count": 3 },
+        { "startOffset": 8546, "endOffset": 8628, "count": 2 },
+        { "startOffset": 8611, "endOffset": 8628, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseFile",
+      "ranges": [{ "startOffset": 8631, "endOffset": 8817, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "assertSafe",
+      "ranges": [
+        { "startOffset": 8818, "endOffset": 9746, "count": 1 },
+        { "startOffset": 8937, "endOffset": 9260, "count": 0 },
+        { "startOffset": 9294, "endOffset": 9744, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 9794, "endOffset": 9987, "count": 0 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

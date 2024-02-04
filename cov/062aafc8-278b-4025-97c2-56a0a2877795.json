@@ -1,0 +1,11 @@
+{
+  "scriptId": "462",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/core-rest-pipeline/1.14.0/dist/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3152, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

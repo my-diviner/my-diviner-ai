@@ -1,0 +1,36 @@
+{
+  "scriptId": "464",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/langgraph/0.0.3/dist/channels/binop.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1993, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BinaryOperatorAggregate",
+      "ranges": [{ "startOffset": 224, "endOffset": 1171, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "empty",
+      "ranges": [{ "startOffset": 1176, "endOffset": 1306, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "update",
+      "ranges": [{ "startOffset": 1311, "endOffset": 1720, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 1725, "endOffset": 1858, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "checkpoint",
+      "ranges": [{ "startOffset": 1863, "endOffset": 1990, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

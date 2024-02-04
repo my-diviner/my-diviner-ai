@@ -1,0 +1,75 @@
+{
+  "scriptId": "472",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/lib/ChatCompletionStream.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 14455, "count": 1 },
+        { "startOffset": 35, "endOffset": 65, "count": 0 },
+        { "startOffset": 527, "endOffset": 557, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__classPrivateFieldGet",
+      "ranges": [{ "startOffset": 70, "endOffset": 490, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "__classPrivateFieldSet",
+      "ranges": [{ "startOffset": 562, "endOffset": 1077, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ChatCompletionStream",
+      "ranges": [{ "startOffset": 1586, "endOffset": 1766, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get currentChatCompletionSnapshot",
+      "ranges": [{ "startOffset": 1771, "endOffset": 1917, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromReadableStream",
+      "ranges": [{ "startOffset": 2173, "endOffset": 2344, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createChatCompletion",
+      "ranges": [{ "startOffset": 2356, "endOffset": 2673, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_createChatCompletion",
+      "ranges": [{ "startOffset": 2678, "endOffset": 3680, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_fromReadableStream",
+      "ranges": [{ "startOffset": 3685, "endOffset": 4953, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4958, "endOffset": 11030, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toReadableStream",
+      "ranges": [{ "startOffset": 11035, "endOffset": 11194, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "finalizeChatCompletion",
+      "ranges": [{ "startOffset": 11197, "endOffset": 14355, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "str",
+      "ranges": [{ "startOffset": 14356, "endOffset": 14405, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

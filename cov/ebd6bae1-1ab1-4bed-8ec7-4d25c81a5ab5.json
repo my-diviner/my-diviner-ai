@@ -1,0 +1,76 @@
+{
+  "scriptId": "361",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/openai/0.0.14/dist/llms.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 19447, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "lc_name",
+      "ranges": [{ "startOffset": 1613, "endOffset": 1655, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get callKeys",
+      "ranges": [{ "startOffset": 1660, "endOffset": 1729, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get lc_secrets",
+      "ranges": [{ "startOffset": 1734, "endOffset": 1934, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get lc_aliases",
+      "ranges": [{ "startOffset": 1939, "endOffset": 2337, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "OpenAI",
+      "ranges": [{ "startOffset": 2342, "endOffset": 10683, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "invocationParams",
+      "ranges": [{ "startOffset": 10755, "endOffset": 11311, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_identifyingParams",
+      "ranges": [{ "startOffset": 11335, "endOffset": 11505, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "identifyingParams",
+      "ranges": [{ "startOffset": 11578, "endOffset": 11647, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_generate",
+      "ranges": [{ "startOffset": 12203, "endOffset": 16384, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_streamResponseChunks",
+      "ranges": [{ "startOffset": 16473, "endOffset": 17349, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "completionWithRetry",
+      "ranges": [{ "startOffset": 17354, "endOffset": 17801, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getClientOptions",
+      "ranges": [{ "startOffset": 18062, "endOffset": 19396, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_llmType",
+      "ranges": [{ "startOffset": 19401, "endOffset": 19444, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "scriptId": "401",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/utils/chunk_array.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 44, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

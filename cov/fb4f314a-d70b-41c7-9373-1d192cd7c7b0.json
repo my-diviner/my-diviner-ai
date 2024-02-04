@@ -1,0 +1,16 @@
+{
+  "scriptId": "460",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/openai/1.0.0-beta.11/dist-esm/src/api/OpenAIContext.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 321, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createOpenAI",
+      "ranges": [{ "startOffset": 124, "endOffset": 279, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

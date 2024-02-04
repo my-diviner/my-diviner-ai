@@ -1,0 +1,11 @@
+{
+  "scriptId": "499",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/logger/1.0.4/dist/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 535, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

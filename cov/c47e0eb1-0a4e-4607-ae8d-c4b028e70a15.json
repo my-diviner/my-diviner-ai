@@ -1,0 +1,21 @@
+{
+  "scriptId": "543",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/langsmith/0.0.66/dist/utils/messages.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 530, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isLangChainMessage",
+      "ranges": [{ "startOffset": 7, "endOffset": 99, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convertLangChainMessageToExample",
+      "ranges": [{ "startOffset": 107, "endOffset": 529, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

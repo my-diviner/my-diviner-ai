@@ -1,0 +1,57 @@
+{
+  "scriptId": "341",
+  "url": "https://esm.sh/v135/js-tiktoken@1.0.10/denonext/lite.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4016, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "v",
+      "ranges": [
+        { "startOffset": 165, "endOffset": 246, "count": 1 },
+        { "startOffset": 180, "endOffset": 239, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "m",
+      "ranges": [
+        { "startOffset": 249, "endOffset": 294, "count": 1 },
+        { "startOffset": 286, "endOffset": 288, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "T",
+      "ranges": [{ "startOffset": 295, "endOffset": 627, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 627, "endOffset": 758, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "y",
+      "ranges": [{ "startOffset": 758, "endOffset": 819, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 830, "endOffset": 2471, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2500, "endOffset": 2543, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "M",
+      "ranges": [{ "startOffset": 2545, "endOffset": 3932, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

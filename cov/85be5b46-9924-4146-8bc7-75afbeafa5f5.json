@@ -1,0 +1,54 @@
+{
+  "scriptId": "514",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/utils/js-sha1/hash.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 13375, "count": 1 },
+        { "startOffset": 347, "endOffset": 355, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Sha1",
+      "ranges": [{ "startOffset": 563, "endOffset": 1971, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Sha1.update",
+      "ranges": [{ "startOffset": 1996, "endOffset": 5374, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Sha1.finalize",
+      "ranges": [{ "startOffset": 5402, "endOffset": 6752, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Sha1.hash",
+      "ranges": [{ "startOffset": 6776, "endOffset": 10530, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Sha1.hex",
+      "ranges": [{ "startOffset": 10553, "endOffset": 12181, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Sha1.digest",
+      "ranges": [{ "startOffset": 12253, "endOffset": 12882, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Sha1.arrayBuffer",
+      "ranges": [{ "startOffset": 12959, "endOffset": 13275, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "insecureHash",
+      "ranges": [{ "startOffset": 13305, "endOffset": 13373, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

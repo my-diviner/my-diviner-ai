@@ -1,0 +1,11 @@
+{
+  "scriptId": "517",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/p-retry/4.6.2/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 320, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

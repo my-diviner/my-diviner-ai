@@ -1,0 +1,26 @@
+{
+  "scriptId": "544",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/lib/RunnableFunction.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 871, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isRunnableFunctionWithParse",
+      "ranges": [{ "startOffset": 7, "endOffset": 94, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ParsingFunction",
+      "ranges": [{ "startOffset": 330, "endOffset": 552, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ParsingToolFunction",
+      "ranges": [{ "startOffset": 734, "endOffset": 823, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

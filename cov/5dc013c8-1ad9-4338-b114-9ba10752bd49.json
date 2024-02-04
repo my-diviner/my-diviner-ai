@@ -1,0 +1,101 @@
+{
+  "scriptId": "375",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/language_models/llms.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 14032, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BaseLLM",
+      "ranges": [{ "startOffset": 365, "endOffset": 754, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "invoke",
+      "ranges": [{ "startOffset": 1082, "endOffset": 1329, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_streamResponseChunks",
+      "ranges": [{ "startOffset": 1380, "endOffset": 1492, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_separateRunnableConfigFromCallOptions",
+      "ranges": [{ "startOffset": 1497, "endOffset": 1843, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_streamIterator",
+      "ranges": [{ "startOffset": 1848, "endOffset": 3842, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "generatePrompt",
+      "ranges": [{ "startOffset": 4184, "endOffset": 4388, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "invocationParams",
+      "ranges": [{ "startOffset": 4527, "endOffset": 4580, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_flattenLLMResult",
+      "ranges": [{ "startOffset": 4585, "endOffset": 5316, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_generateUncached",
+      "ranges": [{ "startOffset": 5340, "endOffset": 6927, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_generateCached",
+      "ranges": [{ "startOffset": 6932, "endOffset": 9752, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "generate",
+      "ranges": [{ "startOffset": 9842, "endOffset": 11485, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "call",
+      "ranges": [{ "startOffset": 11695, "endOffset": 11863, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "predict",
+      "ranges": [{ "startOffset": 12273, "endOffset": 12372, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "predictMessages",
+      "ranges": [{ "startOffset": 12806, "endOffset": 13025, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_identifyingParams",
+      "ranges": [{ "startOffset": 13163, "endOffset": 13210, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serialize",
+      "ranges": [{ "startOffset": 13306, "endOffset": 13470, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_modelType",
+      "ranges": [{ "startOffset": 13475, "endOffset": 13522, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_generate",
+      "ranges": [{ "startOffset": 13771, "endOffset": 14029, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

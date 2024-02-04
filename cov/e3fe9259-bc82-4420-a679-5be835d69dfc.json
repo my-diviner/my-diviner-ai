@@ -1,0 +1,191 @@
+{
+  "scriptId": "399",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/lib/AbstractChatCompletionRunner.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9529, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "h",
+      "ranges": [{ "startOffset": 429, "endOffset": 789, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "i",
+      "ranges": [{ "startOffset": 792, "endOffset": 1088, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Q",
+      "ranges": [{ "startOffset": 1142, "endOffset": 1954, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_run",
+      "ranges": [{ "startOffset": 1954, "endOffset": 2048, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_addChatCompletion",
+      "ranges": [{ "startOffset": 2048, "endOffset": 2191, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_addMessage",
+      "ranges": [{ "startOffset": 2191, "endOffset": 2551, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_connected",
+      "ranges": [{ "startOffset": 2551, "endOffset": 2625, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get ended",
+      "ranges": [{ "startOffset": 2625, "endOffset": 2658, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get errored",
+      "ranges": [{ "startOffset": 2658, "endOffset": 2693, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get aborted",
+      "ranges": [{ "startOffset": 2693, "endOffset": 2728, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "abort",
+      "ranges": [{ "startOffset": 2728, "endOffset": 2760, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "on",
+      "ranges": [{ "startOffset": 2760, "endOffset": 2840, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "off",
+      "ranges": [{ "startOffset": 2840, "endOffset": 2959, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "once",
+      "ranges": [{ "startOffset": 2959, "endOffset": 3049, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "emitted",
+      "ranges": [{ "startOffset": 3049, "endOffset": 3155, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "done",
+      "ranges": [{ "startOffset": 3155, "endOffset": 3205, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "finalChatCompletion",
+      "ranges": [{ "startOffset": 3205, "endOffset": 3389, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "finalContent",
+      "ranges": [{ "startOffset": 3389, "endOffset": 3462, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "finalMessage",
+      "ranges": [{ "startOffset": 3462, "endOffset": 3535, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "finalFunctionCall",
+      "ranges": [{ "startOffset": 3535, "endOffset": 3613, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "finalFunctionCallResult",
+      "ranges": [{ "startOffset": 3613, "endOffset": 3697, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "totalUsage",
+      "ranges": [{ "startOffset": 3697, "endOffset": 3768, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "allChatCompletions",
+      "ranges": [{ "startOffset": 3768, "endOffset": 3822, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_emit",
+      "ranges": [{ "startOffset": 3822, "endOffset": 4314, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_emitFinal",
+      "ranges": [{ "startOffset": 4314, "endOffset": 4800, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_createChatCompletion",
+      "ranges": [{ "startOffset": 4800, "endOffset": 5104, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_runChatCompletion",
+      "ranges": [{ "startOffset": 5104, "endOffset": 5230, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_runFunctions",
+      "ranges": [{ "startOffset": 5230, "endOffset": 6507, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_runTools",
+      "ranges": [{ "startOffset": 6507, "endOffset": 8023, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "L",
+      "ranges": [{ "startOffset": 8209, "endOffset": 8268, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "I",
+      "ranges": [{ "startOffset": 8271, "endOffset": 8481, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "q",
+      "ranges": [{ "startOffset": 8484, "endOffset": 8679, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "B",
+      "ranges": [{ "startOffset": 8682, "endOffset": 8937, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "G",
+      "ranges": [{ "startOffset": 8940, "endOffset": 9170, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "V",
+      "ranges": [{ "startOffset": 9173, "endOffset": 9345, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "H",
+      "ranges": [{ "startOffset": 9348, "endOffset": 9429, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

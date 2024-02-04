@@ -1,0 +1,16 @@
+{
+  "scriptId": "386",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/zod-to-json-schema/3.22.4/dist/esm/parsers/boolean.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 83, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseBooleanDef",
+      "ranges": [{ "startOffset": 7, "endOffset": 82, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

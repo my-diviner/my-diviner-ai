@@ -1,0 +1,16 @@
+{
+  "scriptId": "458",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/openai/1.0.0-beta.11/dist-esm/src/api/oaiSse.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 941, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getOaiSSEs",
+      "ranges": [{ "startOffset": 273, "endOffset": 906, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

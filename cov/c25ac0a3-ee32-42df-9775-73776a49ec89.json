@@ -1,0 +1,54 @@
+{
+  "scriptId": "429",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/utils/async_caller.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4397, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "defaultFailedAttemptHandler",
+      "ranges": [{ "startOffset": 293, "endOffset": 1152, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "AsyncCaller",
+      "ranges": [
+        { "startOffset": 1797, "endOffset": 2911, "count": 2 },
+        { "startOffset": 2822, "endOffset": 2833, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "call",
+      "ranges": [{ "startOffset": 2983, "endOffset": 3606, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "queue.add.throwOnTimeout",
+      "ranges": [{ "startOffset": 3039, "endOffset": 3572, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "pRetry.onFailedAttempt",
+      "ranges": [{ "startOffset": 3052, "endOffset": 3331, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3082, "endOffset": 3330, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "callWithOptions",
+      "ranges": [{ "startOffset": 3678, "endOffset": 4267, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetch",
+      "ranges": [{ "startOffset": 4272, "endOffset": 4394, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "scriptId": "590",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/agent-base/6.0.2/dist/src/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8231, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 8230, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 194, "endOffset": 8166, "count": 1 },
+        { "startOffset": 8077, "endOffset": 8098, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 324, "endOffset": 405, "count": 2 },
+        { "startOffset": 376, "endOffset": 381, "count": 1 },
+        { "startOffset": 382, "endOffset": 402, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isAgent",
+      "ranges": [{ "startOffset": 600, "endOffset": 684, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isSecureEndpoint",
+      "ranges": [{ "startOffset": 685, "endOffset": 915, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createAgent",
+      "ranges": [{ "startOffset": 916, "endOffset": 1006, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1008, "endOffset": 8063, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Agent",
+      "ranges": [{ "startOffset": 1262, "endOffset": 2153, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get defaultPort",
+      "ranges": [{ "startOffset": 2162, "endOffset": 2368, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set defaultPort",
+      "ranges": [{ "startOffset": 2377, "endOffset": 2449, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get protocol",
+      "ranges": [{ "startOffset": 2458, "endOffset": 2665, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set protocol",
+      "ranges": [{ "startOffset": 2674, "endOffset": 2740, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "callback",
+      "ranges": [{ "startOffset": 2749, "endOffset": 2904, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addRequest",
+      "ranges": [{ "startOffset": 3099, "endOffset": 7679, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "freeSocket",
+      "ranges": [{ "startOffset": 7688, "endOffset": 7828, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "destroy",
+      "ranges": [{ "startOffset": 7837, "endOffset": 7923, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "scriptId": "308",
+  "url": "file:///C:/Users/micha_8ygdgy8/Fathym/OpenSource/my-diviner/my-diviner-ai/tests/workshop/bench.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 567, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 94, "endOffset": 564, "count": 1 },
+        { "startOffset": 522, "endOffset": 562, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 370, "endOffset": 418, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 426, "endOffset": 464, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

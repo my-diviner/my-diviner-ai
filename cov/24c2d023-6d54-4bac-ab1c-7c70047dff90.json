@@ -1,0 +1,30 @@
+{
+  "scriptId": "466",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/openai/1.0.0-beta.11/dist-esm/src/api/oaiSse.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 941, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getOaiSSEs",
+      "ranges": [{ "startOffset": 273, "endOffset": 906, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "transform",
+      "ranges": [
+        { "startOffset": 491, "endOffset": 750, "count": 11 },
+        { "startOffset": 563, "endOffset": 602, "count": 1 },
+        { "startOffset": 602, "endOffset": 749, "count": 10 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 652, "endOffset": 680, "count": 10 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

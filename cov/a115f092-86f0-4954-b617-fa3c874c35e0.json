@@ -1,0 +1,15 @@
+{
+  "scriptId": "137",
+  "url": "node:tty",
+  "functions": [
+    {
+      "functionName": "isatty",
+      "ranges": [
+        { "startOffset": 628, "endOffset": 966, "count": 4 },
+        { "startOffset": 680, "endOffset": 703, "count": 0 },
+        { "startOffset": 931, "endOffset": 964, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

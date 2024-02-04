@@ -1,0 +1,41 @@
+{
+  "scriptId": "513",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/p-retry/4.6.2/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2398, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2397, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 194, "endOffset": 2333, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AbortError",
+      "ranges": [{ "startOffset": 563, "endOffset": 849, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decorateErrorWithCounts",
+      "ranges": [{ "startOffset": 885, "endOffset": 1154, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isNetworkError",
+      "ranges": [{ "startOffset": 1180, "endOffset": 1235, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "pRetry",
+      "ranges": [{ "startOffset": 1253, "endOffset": 2182, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

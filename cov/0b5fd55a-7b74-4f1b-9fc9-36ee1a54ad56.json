@@ -1,0 +1,101 @@
+{
+  "scriptId": "330",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/azure-openai/0.0.1/dist/chat_models.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 22533, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_convertDeltaToMessageChunk",
+      "ranges": [{ "startOffset": 632, "endOffset": 1823, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "openAIResponseToChatMessage",
+      "ranges": [{ "startOffset": 1824, "endOffset": 2210, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "extractGenericMessageCustomRole",
+      "ranges": [{ "startOffset": 2211, "endOffset": 2544, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "messageToOpenAIRole",
+      "ranges": [{ "startOffset": 2552, "endOffset": 3203, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lc_name",
+      "ranges": [{ "startOffset": 3268, "endOffset": 3319, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get callKeys",
+      "ranges": [{ "startOffset": 3324, "endOffset": 3608, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get lc_secrets",
+      "ranges": [{ "startOffset": 3613, "endOffset": 3904, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get lc_aliases",
+      "ranges": [{ "startOffset": 3909, "endOffset": 4232, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "AzureChatOpenAI",
+      "ranges": [{ "startOffset": 4237, "endOffset": 10038, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatMessages",
+      "ranges": [{ "startOffset": 10043, "endOffset": 10424, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_streamChatCompletionsWithRetry",
+      "ranges": [{ "startOffset": 10429, "endOffset": 11835, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_streamResponseChunks",
+      "ranges": [{ "startOffset": 11840, "endOffset": 13394, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_generate",
+      "ranges": [{ "startOffset": 13399, "endOffset": 17409, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getNumTokensFromGenerations",
+      "ranges": [{ "startOffset": 17502, "endOffset": 18038, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_llmType",
+      "ranges": [{ "startOffset": 18043, "endOffset": 18092, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getEstimatedTokenCountFromPrompt",
+      "ranges": [{ "startOffset": 18258, "endOffset": 19860, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getNumTokensFromMessages",
+      "ranges": [{ "startOffset": 19865, "endOffset": 21865, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_combineLLMOutput",
+      "ranges": [{ "startOffset": 21889, "endOffset": 22530, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

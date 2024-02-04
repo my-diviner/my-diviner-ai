@@ -1,0 +1,156 @@
+{
+  "scriptId": "367",
+  "url": "https://esm.sh/v135/eventemitter3@4.0.7/denonext/eventemitter3.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 3723, "count": 1 },
+        { "startOffset": 3624, "endOffset": 3626, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "j",
+      "ranges": [{ "startOffset": 258, "endOffset": 313, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 265, "endOffset": 313, "count": 2 },
+        { "startOffset": 271, "endOffset": 302, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "q",
+      "ranges": [
+        { "startOffset": 316, "endOffset": 371, "count": 1 },
+        { "startOffset": 339, "endOffset": 370, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "m",
+      "ranges": [
+        { "startOffset": 374, "endOffset": 540, "count": 3 },
+        { "startOffset": 410, "endOffset": 432, "count": 2 },
+        { "startOffset": 451, "endOffset": 531, "count": 16 },
+        { "startOffset": 463, "endOffset": 530, "count": 13 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 483, "endOffset": 491, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [
+        { "startOffset": 543, "endOffset": 590, "count": 1 },
+        { "startOffset": 571, "endOffset": 589, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "E",
+      "ranges": [
+        { "startOffset": 593, "endOffset": 691, "count": 2 },
+        { "startOffset": 620, "endOffset": 623, "count": 0 },
+        { "startOffset": 685, "endOffset": 687, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 700, "endOffset": 3467, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "d",
+      "ranges": [{ "startOffset": 765, "endOffset": 779, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "B",
+      "ranges": [{ "startOffset": 854, "endOffset": 913, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "L",
+      "ranges": [{ "startOffset": 913, "endOffset": 1169, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "x",
+      "ranges": [{ "startOffset": 1169, "endOffset": 1242, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "c",
+      "ranges": [{ "startOffset": 1242, "endOffset": 1294, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "c.eventNames",
+      "ranges": [{ "startOffset": 1317, "endOffset": 1515, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "c.listeners",
+      "ranges": [{ "startOffset": 1538, "endOffset": 1686, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "c.listenerCount",
+      "ranges": [{ "startOffset": 1713, "endOffset": 1784, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "c.emit",
+      "ranges": [
+        { "startOffset": 1802, "endOffset": 2691, "count": 4 },
+        { "startOffset": 1831, "endOffset": 1835, "count": 0 },
+        { "startOffset": 1867, "endOffset": 2690, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "c.on",
+      "ranges": [{ "startOffset": 2707, "endOffset": 2747, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "c.once",
+      "ranges": [{ "startOffset": 2765, "endOffset": 2805, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "c.removeListener",
+      "ranges": [{ "startOffset": 2833, "endOffset": 3182, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "c.removeAllListeners",
+      "ranges": [{ "startOffset": 3214, "endOffset": 3326, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "EventEmitter",
+      "ranges": [{ "startOffset": 3496, "endOffset": 3501, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "default",
+      "ranges": [{ "startOffset": 3510, "endOffset": 3515, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "prefixed",
+      "ranges": [{ "startOffset": 3525, "endOffset": 3530, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

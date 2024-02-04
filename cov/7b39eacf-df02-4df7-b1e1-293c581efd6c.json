@@ -1,0 +1,16 @@
+{
+  "scriptId": "404",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/zod-to-json-schema/3.22.4/dist/esm/parsers/readonly.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 142, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseReadonlyDef",
+      "ranges": [{ "startOffset": 75, "endOffset": 140, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

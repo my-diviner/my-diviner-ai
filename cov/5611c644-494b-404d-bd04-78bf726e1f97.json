@@ -1,0 +1,16 @@
+{
+  "scriptId": "412",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/zod-to-json-schema/3.22.4/dist/esm/parsers/unknown.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 53, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseUnknownDef",
+      "ranges": [{ "startOffset": 7, "endOffset": 52, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

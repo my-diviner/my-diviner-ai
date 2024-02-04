@@ -1,0 +1,54 @@
+{
+  "scriptId": "545",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/resources/beta/threads/runs/runs.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 2810, "count": 1 },
+        { "startOffset": 2760, "endOffset": 2774, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Runs",
+      "ranges": [{ "startOffset": 379, "endOffset": 484, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 526, "endOffset": 761, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "retrieve",
+      "ranges": [{ "startOffset": 806, "endOffset": 1034, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "update",
+      "ranges": [{ "startOffset": 1078, "endOffset": 1329, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "list",
+      "ranges": [{ "startOffset": 1334, "endOffset": 1690, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cancel",
+      "ranges": [{ "startOffset": 1755, "endOffset": 1989, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "submitToolOutputs",
+      "ranges": [{ "startOffset": 2285, "endOffset": 2567, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2616, "endOffset": 2753, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

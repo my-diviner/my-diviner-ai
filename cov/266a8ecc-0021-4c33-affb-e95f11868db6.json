@@ -1,0 +1,31 @@
+{
+  "scriptId": "363",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/openai/0.0.14/dist/embeddings.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 10362, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "OpenAIEmbeddings",
+      "ranges": [{ "startOffset": 876, "endOffset": 6567, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "embedDocuments",
+      "ranges": [{ "startOffset": 6913, "endOffset": 7830, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "embedQuery",
+      "ranges": [{ "startOffset": 8118, "endOffset": 8480, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "embeddingWithRetry",
+      "ranges": [{ "startOffset": 8785, "endOffset": 10359, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

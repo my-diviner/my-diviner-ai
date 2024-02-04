@@ -1,0 +1,46 @@
+{
+  "scriptId": "466",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/openai/1.0.0-beta.11/dist-esm/src/api/client/openAIClient/deserializers.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3867, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getContentFilterResultsForPrompt",
+      "ranges": [{ "startOffset": 154, "endOffset": 774, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getCompletionsResult",
+      "ranges": [{ "startOffset": 782, "endOffset": 1641, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getChatCompletionsResult",
+      "ranges": [{ "startOffset": 1649, "endOffset": 2748, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseMessage",
+      "ranges": [{ "startOffset": 2749, "endOffset": 3272, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseError",
+      "ranges": [{ "startOffset": 3273, "endOffset": 3465, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseContentFilterResultDetailsForPromptOutput",
+      "ranges": [{ "startOffset": 3466, "endOffset": 3648, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseContentFilterResultsForChoiceOutput",
+      "ranges": [{ "startOffset": 3649, "endOffset": 3825, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

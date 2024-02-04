@@ -1,0 +1,86 @@
+{
+  "scriptId": "378",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/tools.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6911, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ToolInputParsingException",
+      "ranges": [{ "startOffset": 449, "endOffset": 715, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get lc_namespace",
+      "ranges": [{ "startOffset": 862, "endOffset": 927, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "StructuredTool",
+      "ranges": [{ "startOffset": 932, "endOffset": 1169, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "invoke",
+      "ranges": [{ "startOffset": 1414, "endOffset": 1490, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "call",
+      "ranges": [{ "startOffset": 1915, "endOffset": 2966, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Tool",
+      "ranges": [{ "startOffset": 3079, "endOffset": 3405, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "call",
+      "ranges": [{ "startOffset": 3767, "endOffset": 3889, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lc_name",
+      "ranges": [{ "startOffset": 4033, "endOffset": 4080, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DynamicTool",
+      "ranges": [{ "startOffset": 4085, "endOffset": 4847, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "call",
+      "ranges": [{ "startOffset": 4852, "endOffset": 5078, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_call",
+      "ranges": [{ "startOffset": 5102, "endOffset": 5185, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lc_name",
+      "ranges": [{ "startOffset": 5522, "endOffset": 5579, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DynamicStructuredTool",
+      "ranges": [{ "startOffset": 5584, "endOffset": 6559, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "call",
+      "ranges": [{ "startOffset": 6564, "endOffset": 6830, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_call",
+      "ranges": [{ "startOffset": 6835, "endOffset": 6908, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

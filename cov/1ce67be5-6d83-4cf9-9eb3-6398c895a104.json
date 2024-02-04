@@ -1,0 +1,96 @@
+{
+  "scriptId": "452",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/tracers/tracer_langchain.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3139, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "LangChainTracer",
+      "ranges": [{ "startOffset": 211, "endOffset": 1309, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_convertToCreate",
+      "ranges": [{ "startOffset": 1314, "endOffset": 1700, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "persistRun",
+      "ranges": [{ "startOffset": 1705, "endOffset": 1731, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_persistRunSingle",
+      "ranges": [{ "startOffset": 1736, "endOffset": 1902, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_updateRunSingle",
+      "ranges": [{ "startOffset": 1907, "endOffset": 2201, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onRetrieverStart",
+      "ranges": [{ "startOffset": 2206, "endOffset": 2284, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onRetrieverEnd",
+      "ranges": [{ "startOffset": 2289, "endOffset": 2364, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onRetrieverError",
+      "ranges": [{ "startOffset": 2369, "endOffset": 2446, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onLLMStart",
+      "ranges": [{ "startOffset": 2451, "endOffset": 2523, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onLLMEnd",
+      "ranges": [{ "startOffset": 2528, "endOffset": 2597, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onLLMError",
+      "ranges": [{ "startOffset": 2602, "endOffset": 2673, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onChainStart",
+      "ranges": [{ "startOffset": 2678, "endOffset": 2752, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onChainEnd",
+      "ranges": [{ "startOffset": 2757, "endOffset": 2828, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onChainError",
+      "ranges": [{ "startOffset": 2833, "endOffset": 2906, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onToolStart",
+      "ranges": [{ "startOffset": 2911, "endOffset": 2984, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onToolEnd",
+      "ranges": [{ "startOffset": 2989, "endOffset": 3059, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onToolError",
+      "ranges": [{ "startOffset": 3064, "endOffset": 3136, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

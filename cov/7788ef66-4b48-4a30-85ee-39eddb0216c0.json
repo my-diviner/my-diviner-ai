@@ -1,0 +1,61 @@
+{
+  "scriptId": "373",
+  "url": "https://esm.sh/v135/@azure/core-tracing@1.0.1/denonext/core-tracing.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2105, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "C",
+      "ranges": [{ "startOffset": 183, "endOffset": 329, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "t",
+      "ranges": [{ "startOffset": 343, "endOffset": 421, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setValue",
+      "ranges": [{ "startOffset": 421, "endOffset": 485, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getValue",
+      "ranges": [{ "startOffset": 485, "endOffset": 528, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deleteValue",
+      "ranges": [{ "startOffset": 528, "endOffset": 594, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "b",
+      "ranges": [{ "startOffset": 596, "endOffset": 707, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "v",
+      "ranges": [{ "startOffset": 707, "endOffset": 907, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "y",
+      "ranges": [{ "startOffset": 913, "endOffset": 931, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "x",
+      "ranges": [{ "startOffset": 931, "endOffset": 964, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "M",
+      "ranges": [{ "startOffset": 964, "endOffset": 2009, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

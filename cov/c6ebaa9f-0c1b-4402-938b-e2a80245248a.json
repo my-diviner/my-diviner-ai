@@ -1,0 +1,81 @@
+{
+  "scriptId": "482",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/streaming.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 11960, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Stream",
+      "ranges": [{ "startOffset": 163, "endOffset": 276, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromSSEResponse",
+      "ranges": [{ "startOffset": 288, "endOffset": 2948, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromReadableStream",
+      "ranges": [{ "startOffset": 3082, "endOffset": 4616, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4621, "endOffset": 4685, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "tee",
+      "ranges": [{ "startOffset": 4813, "endOffset": 5470, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toReadableStream",
+      "ranges": [{ "startOffset": 5687, "endOffset": 6458, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SSEDecoder",
+      "ranges": [{ "startOffset": 6484, "endOffset": 6582, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decode",
+      "ranges": [{ "startOffset": 6587, "endOffset": 7592, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "LineDecoder",
+      "ranges": [{ "startOffset": 7848, "endOffset": 7928, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decode",
+      "ranges": [{ "startOffset": 7933, "endOffset": 8822, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decodeText",
+      "ranges": [{ "startOffset": 8827, "endOffset": 10079, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "flush",
+      "ranges": [{ "startOffset": 10084, "endOffset": 10314, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "partition",
+      "ranges": [{ "startOffset": 10536, "endOffset": 10766, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readableStreamAsyncIterable",
+      "ranges": [{ "startOffset": 11062, "endOffset": 11921, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

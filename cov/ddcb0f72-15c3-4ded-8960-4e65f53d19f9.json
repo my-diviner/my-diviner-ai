@@ -1,0 +1,30 @@
+{
+  "scriptId": "324",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/community/0.0.26/dist/tools/tavily_search.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2603, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "lc_name",
+      "ranges": [{ "startOffset": 216, "endOffset": 271, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "TavilySearchResults",
+      "ranges": [
+        { "startOffset": 276, "endOffset": 1794, "count": 1 },
+        { "startOffset": 1436, "endOffset": 1454, "count": 0 },
+        { "startOffset": 1788, "endOffset": 1793, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_call",
+      "ranges": [{ "startOffset": 1799, "endOffset": 2600, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

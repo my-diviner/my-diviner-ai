@@ -1,0 +1,11 @@
+{
+  "scriptId": "473",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/camelcase/6.3.0/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 277, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

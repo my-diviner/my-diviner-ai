@@ -1,0 +1,61 @@
+{
+  "scriptId": "498",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/langsmith/0.0.66/dist/run_trees.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7827, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "warnOnce",
+      "ranges": [{ "startOffset": 175, "endOffset": 318, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stripNonAlphanumeric",
+      "ranges": [{ "startOffset": 319, "endOffset": 399, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convertToDottedOrderFormat",
+      "ranges": [{ "startOffset": 407, "endOffset": 564, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RunTree",
+      "ranges": [{ "startOffset": 592, "endOffset": 4557, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getDefaultConfig",
+      "ranges": [{ "startOffset": 4569, "endOffset": 5199, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createChild",
+      "ranges": [{ "startOffset": 5204, "endOffset": 5475, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "end",
+      "ranges": [{ "startOffset": 5480, "endOffset": 5628, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_convertToCreate",
+      "ranges": [{ "startOffset": 5633, "endOffset": 6983, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "postRun",
+      "ranges": [{ "startOffset": 6988, "endOffset": 7423, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "patchRun",
+      "ranges": [{ "startOffset": 7428, "endOffset": 7824, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

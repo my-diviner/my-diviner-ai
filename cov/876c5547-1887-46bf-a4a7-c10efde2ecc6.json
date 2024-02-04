@@ -1,0 +1,141 @@
+{
+  "scriptId": "513",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/tracers/base.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 14007, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_coerceToDict",
+      "ranges": [{ "startOffset": 124, "endOffset": 291, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stripNonAlphanumeric",
+      "ranges": [{ "startOffset": 292, "endOffset": 372, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convertToDottedOrderFormat",
+      "ranges": [{ "startOffset": 373, "endOffset": 530, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BaseTracer",
+      "ranges": [{ "startOffset": 589, "endOffset": 825, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "copy",
+      "ranges": [{ "startOffset": 830, "endOffset": 865, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_addChildRun",
+      "ranges": [{ "startOffset": 870, "endOffset": 956, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_startTrace",
+      "ranges": [{ "startOffset": 961, "endOffset": 2490, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_endTrace",
+      "ranges": [{ "startOffset": 2495, "endOffset": 2911, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getExecutionOrder",
+      "ranges": [{ "startOffset": 2916, "endOffset": 3210, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleLLMStart",
+      "ranges": [{ "startOffset": 3215, "endOffset": 4245, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleChatModelStart",
+      "ranges": [{ "startOffset": 4250, "endOffset": 5288, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleLLMEnd",
+      "ranges": [{ "startOffset": 5293, "endOffset": 5761, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleLLMError",
+      "ranges": [{ "startOffset": 5766, "endOffset": 6244, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleChainStart",
+      "ranges": [{ "startOffset": 6249, "endOffset": 7180, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleChainEnd",
+      "ranges": [{ "startOffset": 7185, "endOffset": 7806, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleChainError",
+      "ranges": [{ "startOffset": 7811, "endOffset": 8460, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleToolStart",
+      "ranges": [{ "startOffset": 8465, "endOffset": 9379, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleToolEnd",
+      "ranges": [{ "startOffset": 9384, "endOffset": 9859, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleToolError",
+      "ranges": [{ "startOffset": 9864, "endOffset": 10345, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleAgentAction",
+      "ranges": [{ "startOffset": 10350, "endOffset": 10833, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleAgentEnd",
+      "ranges": [{ "startOffset": 10838, "endOffset": 11187, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleRetrieverStart",
+      "ranges": [{ "startOffset": 11192, "endOffset": 12141, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleRetrieverEnd",
+      "ranges": [{ "startOffset": 12146, "endOffset": 12647, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleRetrieverError",
+      "ranges": [{ "startOffset": 12652, "endOffset": 13153, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleText",
+      "ranges": [{ "startOffset": 13158, "endOffset": 13490, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleLLMNewToken",
+      "ranges": [{ "startOffset": 13495, "endOffset": 14004, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

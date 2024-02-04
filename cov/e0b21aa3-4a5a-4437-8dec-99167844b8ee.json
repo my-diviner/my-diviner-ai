@@ -1,0 +1,42 @@
+{
+  "scriptId": "350",
+  "url": "https://esm.sh/v135/@azure/openai@1.0.0-beta.11/denonext/rest.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2505, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "h",
+      "ranges": [
+        { "startOffset": 274, "endOffset": 1061, "count": 1 },
+        { "startOffset": 353, "endOffset": 355, "count": 0 },
+        { "startOffset": 418, "endOffset": 420, "count": 0 },
+        { "startOffset": 505, "endOffset": 586, "count": 0 },
+        { "startOffset": 747, "endOffset": 756, "count": 0 },
+        { "startOffset": 776, "endOffset": 778, "count": 0 },
+        { "startOffset": 853, "endOffset": 862, "count": 0 },
+        { "startOffset": 882, "endOffset": 884, "count": 0 },
+        { "startOffset": 997, "endOffset": 1016, "count": 0 },
+        { "startOffset": 1036, "endOffset": 1038, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "C",
+      "ranges": [{ "startOffset": 1633, "endOffset": 1809, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 1809, "endOffset": 2372, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "I",
+      "ranges": [{ "startOffset": 2372, "endOffset": 2425, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

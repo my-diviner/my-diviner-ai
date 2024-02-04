@@ -1,0 +1,11 @@
+{
+  "scriptId": "354",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/core-auth/1.6.0/dist/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 763, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

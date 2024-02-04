@@ -1,0 +1,24 @@
+{
+  "scriptId": "401",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/resources/audio/audio.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 857, "count": 1 },
+        { "startOffset": 805, "endOffset": 820, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Audio",
+      "ranges": [{ "startOffset": 354, "endOffset": 620, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 624, "endOffset": 797, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

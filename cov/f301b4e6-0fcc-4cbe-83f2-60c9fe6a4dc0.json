@@ -1,0 +1,62 @@
+{
+  "scriptId": "480",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/js-tiktoken/1.0.10/dist/chunk-HXW345QN.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7093, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__defNormalProp",
+      "ranges": [
+        { "startOffset": 94, "endOffset": 231, "count": 1 },
+        { "startOffset": 126, "endOffset": 212, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__publicField",
+      "ranges": [
+        { "startOffset": 253, "endOffset": 366, "count": 1 },
+        { "startOffset": 334, "endOffset": 339, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "never",
+      "ranges": [{ "startOffset": 385, "endOffset": 406, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bytePairMerge",
+      "ranges": [{ "startOffset": 407, "endOffset": 1104, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bytePairEncode",
+      "ranges": [{ "startOffset": 1105, "endOffset": 1337, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "escapeRegex",
+      "ranges": [{ "startOffset": 1338, "endOffset": 1420, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [{ "startOffset": 1443, "endOffset": 5044, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5117, "endOffset": 5203, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getEncodingNameForModel",
+      "ranges": [{ "startOffset": 5206, "endOffset": 7038, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

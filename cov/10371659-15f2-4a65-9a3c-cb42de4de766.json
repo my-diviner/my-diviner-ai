@@ -1,0 +1,46 @@
+{
+  "scriptId": "427",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/caches.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2765, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getCacheKey",
+      "ranges": [{ "startOffset": 551, "endOffset": 598, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deserializeStoredGeneration",
+      "ranges": [{ "startOffset": 607, "endOffset": 933, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serializeGeneration",
+      "ranges": [{ "startOffset": 941, "endOffset": 1194, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "InMemoryCache",
+      "ranges": [{ "startOffset": 1453, "endOffset": 1708, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lookup",
+      "ranges": [{ "startOffset": 2046, "endOffset": 2161, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "update",
+      "ranges": [{ "startOffset": 2408, "endOffset": 2511, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "global",
+      "ranges": [{ "startOffset": 2700, "endOffset": 2762, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

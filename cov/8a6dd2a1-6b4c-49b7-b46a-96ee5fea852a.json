@@ -1,0 +1,21 @@
+{
+  "scriptId": "393",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/zod-to-json-schema/3.22.4/dist/esm/parsers/intersection.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1894, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isJsonSchema7AllOfType",
+      "ranges": [{ "startOffset": 74, "endOffset": 187, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseIntersectionDef",
+      "ranges": [{ "startOffset": 196, "endOffset": 1893, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

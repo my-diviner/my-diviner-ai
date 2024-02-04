@@ -1,0 +1,137 @@
+{
+  "scriptId": "583",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/logger/1.0.4/dist/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6461, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 6460, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 194, "endOffset": 6396, "count": 1 },
+        { "startOffset": 999, "endOffset": 1032, "count": 0 },
+        { "startOffset": 3684, "endOffset": 4051, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_interopDefaultLegacy",
+      "ranges": [
+        { "startOffset": 386, "endOffset": 500, "count": 1 },
+        { "startOffset": 475, "endOffset": 478, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "log",
+      "ranges": [{ "startOffset": 605, "endOffset": 730, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Object.assign.enable.enable",
+      "ranges": [{ "startOffset": 1064, "endOffset": 1120, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "enable",
+      "ranges": [{ "startOffset": 1175, "endOffset": 1762, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "enabled",
+      "ranges": [
+        { "startOffset": 1763, "endOffset": 2147, "count": 16 },
+        { "startOffset": 1826, "endOffset": 1854, "count": 0 },
+        { "startOffset": 1900, "endOffset": 1982, "count": 0 },
+        { "startOffset": 2037, "endOffset": 2127, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "disable",
+      "ranges": [{ "startOffset": 2148, "endOffset": 2245, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createDebugger",
+      "ranges": [{ "startOffset": 2246, "endOffset": 2738, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "debug",
+      "ranges": [
+        { "startOffset": 2458, "endOffset": 2679, "count": 25 },
+        { "startOffset": 2549, "endOffset": 2678, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "destroy",
+      "ranges": [{ "startOffset": 2739, "endOffset": 2907, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "extend",
+      "ranges": [{ "startOffset": 2908, "endOffset": 3068, "count": 15 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AzureLogger.log",
+      "ranges": [{ "startOffset": 3555, "endOffset": 3595, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setLogLevel",
+      "ranges": [{ "startOffset": 4319, "endOffset": 4767, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getLogLevel",
+      "ranges": [{ "startOffset": 4824, "endOffset": 4876, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createClientLogger",
+      "ranges": [{ "startOffset": 5116, "endOffset": 5519, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "patchLogMethod",
+      "ranges": [{ "startOffset": 5520, "endOffset": 5629, "count": 15 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "child.log",
+      "ranges": [{ "startOffset": 5577, "endOffset": 5626, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createLogger",
+      "ranges": [
+        { "startOffset": 5630, "endOffset": 5995, "count": 12 },
+        { "startOffset": 5815, "endOffset": 5939, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "shouldEnable",
+      "ranges": [
+        { "startOffset": 5996, "endOffset": 6117, "count": 12 },
+        { "startOffset": 6061, "endOffset": 6113, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isAzureLogLevel",
+      "ranges": [{ "startOffset": 6118, "endOffset": 6204, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

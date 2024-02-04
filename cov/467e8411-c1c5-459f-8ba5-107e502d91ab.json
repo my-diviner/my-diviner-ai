@@ -1,0 +1,21 @@
+{
+  "scriptId": "392",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/_shims/MultipartBody.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 244, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "t",
+      "ranges": [{ "startOffset": 98, "endOffset": 125, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "t",
+      "ranges": [{ "startOffset": 125, "endOffset": 173, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

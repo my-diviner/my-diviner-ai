@@ -1,0 +1,71 @@
+{
+  "scriptId": "372",
+  "url": "https://esm.sh/v135/@azure/abort-controller@1.1.0/denonext/abort-controller.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1436, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "e",
+      "ranges": [{ "startOffset": 123, "endOffset": 185, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get aborted",
+      "ranges": [{ "startOffset": 185, "endOffset": 307, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get none",
+      "ranges": [{ "startOffset": 314, "endOffset": 338, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addEventListener",
+      "ranges": [{ "startOffset": 338, "endOffset": 469, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeEventListener",
+      "ranges": [{ "startOffset": 469, "endOffset": 636, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dispatchEvent",
+      "ranges": [{ "startOffset": 636, "endOffset": 785, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "a",
+      "ranges": [{ "startOffset": 787, "endOffset": 929, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "c",
+      "ranges": [{ "startOffset": 955, "endOffset": 1002, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "h",
+      "ranges": [{ "startOffset": 1012, "endOffset": 1172, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get signal",
+      "ranges": [{ "startOffset": 1172, "endOffset": 1205, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "abort",
+      "ranges": [{ "startOffset": 1205, "endOffset": 1229, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "timeout",
+      "ranges": [{ "startOffset": 1236, "endOffset": 1326, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

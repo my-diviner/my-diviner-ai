@@ -1,0 +1,19 @@
+{
+  "scriptId": "359",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/resources/completions.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 344, "count": 1 },
+        { "startOffset": 270, "endOffset": 278, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 180, "endOffset": 267, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

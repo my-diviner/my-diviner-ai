@@ -1,0 +1,49 @@
+{
+  "scriptId": "418",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/resources/beta/threads/threads.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 2166, "count": 1 },
+        { "startOffset": 2110, "endOffset": 2127, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Threads",
+      "ranges": [{ "startOffset": 344, "endOffset": 510, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 515, "endOffset": 818, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "retrieve",
+      "ranges": [{ "startOffset": 866, "endOffset": 1073, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "update",
+      "ranges": [{ "startOffset": 1120, "endOffset": 1350, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "del",
+      "ranges": [{ "startOffset": 1395, "endOffset": 1600, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createAndRun",
+      "ranges": [{ "startOffset": 1671, "endOffset": 1890, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1894, "endOffset": 2100, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

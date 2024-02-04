@@ -1,0 +1,79 @@
+{
+  "scriptId": "337",
+  "url": "https://esm.sh/v135/decamelize@1.2.0/denonext/decamelize.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 1096, "count": 1 },
+        { "startOffset": 1032, "endOffset": 1034, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "$",
+      "ranges": [{ "startOffset": 255, "endOffset": 310, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 262, "endOffset": 310, "count": 2 },
+        { "startOffset": 268, "endOffset": 299, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "w",
+      "ranges": [{ "startOffset": 313, "endOffset": 368, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "n",
+      "ranges": [
+        { "startOffset": 371, "endOffset": 537, "count": 3 },
+        { "startOffset": 407, "endOffset": 429, "count": 2 },
+        { "startOffset": 448, "endOffset": 528, "count": 10 },
+        { "startOffset": 460, "endOffset": 527, "count": 9 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 480, "endOffset": 488, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "d",
+      "ranges": [
+        { "startOffset": 540, "endOffset": 587, "count": 1 },
+        { "startOffset": 568, "endOffset": 586, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [
+        { "startOffset": 590, "endOffset": 688, "count": 2 },
+        { "startOffset": 617, "endOffset": 620, "count": 0 },
+        { "startOffset": 682, "endOffset": 684, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 697, "endOffset": 939, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "c.exports",
+      "ranges": [{ "startOffset": 728, "endOffset": 938, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "default",
+      "ranges": [{ "startOffset": 963, "endOffset": 968, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

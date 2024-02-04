@@ -1,0 +1,24 @@
+{
+  "scriptId": "362",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/resources/fine-tuning/fine-tuning.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 594, "count": 1 },
+        { "startOffset": 531, "endOffset": 551, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "FineTuning",
+      "ranges": [{ "startOffset": 213, "endOffset": 315, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 319, "endOffset": 518, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "scriptId": "509",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/retry/0.13.1/lib/retry_operation.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4037, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4036, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 194, "endOffset": 3972, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RetryOperation",
+      "ranges": [{ "startOffset": 254, "endOffset": 935, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RetryOperation.reset",
+      "ranges": [{ "startOffset": 1003, "endOffset": 1091, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RetryOperation.stop",
+      "ranges": [{ "startOffset": 1125, "endOffset": 1316, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RetryOperation.retry",
+      "ranges": [{ "startOffset": 1352, "endOffset": 2478, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RetryOperation.attempt",
+      "ranges": [{ "startOffset": 2516, "endOffset": 2997, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RetryOperation.try",
+      "ranges": [{ "startOffset": 3031, "endOffset": 3126, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RetryOperation.start",
+      "ranges": [{ "startOffset": 3162, "endOffset": 3259, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RetryOperation.errors",
+      "ranges": [{ "startOffset": 3360, "endOffset": 3397, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RetryOperation.attempts",
+      "ranges": [{ "startOffset": 3436, "endOffset": 3475, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RetryOperation.mainError",
+      "ranges": [{ "startOffset": 3515, "endOffset": 3968, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

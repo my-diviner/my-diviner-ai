@@ -1,0 +1,31 @@
+{
+  "scriptId": "416",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/openai/1.0.0-beta.11/dist-esm/src/OpenAIKeyCredential.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1139, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "OpenAIKeyCredential",
+      "ranges": [{ "startOffset": 450, "endOffset": 603, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get key",
+      "ranges": [{ "startOffset": 681, "endOffset": 724, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "update",
+      "ranges": [{ "startOffset": 938, "endOffset": 999, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createKey",
+      "ranges": [{ "startOffset": 1002, "endOffset": 1091, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

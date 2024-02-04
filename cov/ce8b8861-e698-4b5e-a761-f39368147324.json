@@ -1,0 +1,36 @@
+{
+  "scriptId": "503",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/core-sse/2.0.0/dist-esm/src/sse.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6401, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createSseStream",
+      "ranges": [{ "startOffset": 212, "endOffset": 415, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "concatBuffer",
+      "ranges": [{ "startOffset": 416, "endOffset": 558, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createMessage",
+      "ranges": [{ "startOffset": 559, "endOffset": 693, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toLine",
+      "ranges": [{ "startOffset": 694, "endOffset": 3932, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toMessage",
+      "ranges": [{ "startOffset": 3933, "endOffset": 6369, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

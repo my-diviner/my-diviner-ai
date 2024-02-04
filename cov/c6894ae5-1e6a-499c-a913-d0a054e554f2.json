@@ -1,0 +1,16 @@
+{
+  "scriptId": "413",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/zod-to-json-schema/3.22.4/dist/esm/Refs.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 826, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getRefs",
+      "ranges": [{ "startOffset": 73, "endOffset": 824, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

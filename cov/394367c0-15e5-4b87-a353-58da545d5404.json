@@ -1,0 +1,11 @@
+{
+  "scriptId": "312",
+  "url": "https://esm.sh/@langchain/azure-openai@0.0.1",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 784, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

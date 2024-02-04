@@ -1,0 +1,96 @@
+{
+  "scriptId": "496",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/utils/fast-json-patch/src/core.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 20316, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "add",
+      "ranges": [{ "startOffset": 498, "endOffset": 608, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "remove",
+      "ranges": [{ "startOffset": 622, "endOffset": 767, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "replace",
+      "ranges": [{ "startOffset": 782, "endOffset": 933, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "move",
+      "ranges": [{ "startOffset": 945, "endOffset": 1607, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "copy",
+      "ranges": [{ "startOffset": 1619, "endOffset": 2001, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "test",
+      "ranges": [{ "startOffset": 2013, "endOffset": 2132, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_get",
+      "ranges": [{ "startOffset": 2144, "endOffset": 2254, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "add",
+      "ranges": [{ "startOffset": 2364, "endOffset": 2673, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "remove",
+      "ranges": [{ "startOffset": 2687, "endOffset": 2833, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "replace",
+      "ranges": [{ "startOffset": 2848, "endOffset": 2993, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getValueByPointer",
+      "ranges": [{ "startOffset": 3318, "endOffset": 3582, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "applyOperation",
+      "ranges": [{ "startOffset": 4454, "endOffset": 10928, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "applyPatch",
+      "ranges": [{ "startOffset": 11777, "endOffset": 12639, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "applyReducer",
+      "ranges": [{ "startOffset": 12892, "endOffset": 13233, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validator",
+      "ranges": [{ "startOffset": 13636, "endOffset": 17015, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validate",
+      "ranges": [{ "startOffset": 17312, "endOffset": 18127, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_areEquals",
+      "ranges": [{ "startOffset": 19315, "endOffset": 20315, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

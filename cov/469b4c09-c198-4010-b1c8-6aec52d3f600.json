@@ -1,0 +1,82 @@
+{
+  "scriptId": "569",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/core-sse/2.0.0/dist-esm/src/sse.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6401, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createSseStream",
+      "ranges": [{ "startOffset": 212, "endOffset": 415, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "concatBuffer",
+      "ranges": [{ "startOffset": 416, "endOffset": 558, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createMessage",
+      "ranges": [{ "startOffset": 559, "endOffset": 693, "count": 43 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toLine",
+      "ranges": [{ "startOffset": 694, "endOffset": 3932, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toLine_1",
+      "ranges": [
+        { "startOffset": 768, "endOffset": 3928, "count": 1 },
+        { "startOffset": 1082, "endOffset": 1125, "count": 9 },
+        { "startOffset": 1125, "endOffset": 3654, "count": 8 },
+        { "startOffset": 1389, "endOffset": 1482, "count": 0 },
+        { "startOffset": 1597, "endOffset": 3348, "count": 84 },
+        { "startOffset": 1647, "endOffset": 1875, "count": 0 },
+        { "startOffset": 1953, "endOffset": 1966, "count": 17993 },
+        { "startOffset": 1978, "endOffset": 2886, "count": 17917 },
+        { "startOffset": 2055, "endOffset": 2279, "count": 957 },
+        { "startOffset": 2142, "endOffset": 2240, "count": 42 },
+        { "startOffset": 2308, "endOffset": 2689, "count": 0 },
+        { "startOffset": 2718, "endOffset": 2838, "count": 84 },
+        { "startOffset": 2923, "endOffset": 3142, "count": 0 },
+        { "startOffset": 3443, "endOffset": 3640, "count": 0 },
+        { "startOffset": 3673, "endOffset": 3714, "count": 0 },
+        { "startOffset": 3775, "endOffset": 3781, "count": 0 },
+        { "startOffset": 3782, "endOffset": 3810, "count": 0 },
+        { "startOffset": 3812, "endOffset": 3848, "count": 0 },
+        { "startOffset": 3894, "endOffset": 3910, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toMessage",
+      "ranges": [{ "startOffset": 3933, "endOffset": 6369, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toMessage_1",
+      "ranges": [
+        { "startOffset": 4009, "endOffset": 6365, "count": 1 },
+        { "startOffset": 4291, "endOffset": 4333, "count": 85 },
+        { "startOffset": 4333, "endOffset": 6093, "count": 84 },
+        { "startOffset": 4489, "endOffset": 4518, "count": 42 },
+        { "startOffset": 4520, "endOffset": 6079, "count": 42 },
+        { "startOffset": 5212, "endOffset": 5215, "count": 0 },
+        { "startOffset": 5426, "endOffset": 5455, "count": 0 },
+        { "startOffset": 5524, "endOffset": 5623, "count": 0 },
+        { "startOffset": 5648, "endOffset": 5741, "count": 0 },
+        { "startOffset": 5766, "endOffset": 6039, "count": 0 },
+        { "startOffset": 6112, "endOffset": 6153, "count": 0 },
+        { "startOffset": 6214, "endOffset": 6220, "count": 0 },
+        { "startOffset": 6221, "endOffset": 6248, "count": 0 },
+        { "startOffset": 6250, "endOffset": 6285, "count": 0 },
+        { "startOffset": 6331, "endOffset": 6347, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

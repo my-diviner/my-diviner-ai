@@ -1,0 +1,113 @@
+{
+  "scriptId": "539",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/core-util/1.7.0/dist/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 13674, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 13673, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 194, "endOffset": 13609, "count": 1 },
+        { "startOffset": 9530, "endOffset": 9538, "count": 0 },
+        { "startOffset": 9588, "endOffset": 9596, "count": 0 },
+        { "startOffset": 9694, "endOffset": 9713, "count": 0 },
+        { "startOffset": 9783, "endOffset": 9819, "count": 0 },
+        { "startOffset": 10257, "endOffset": 10298, "count": 0 },
+        { "startOffset": 10491, "endOffset": 10499, "count": 0 },
+        { "startOffset": 10537, "endOffset": 10874, "count": 0 },
+        { "startOffset": 11337, "endOffset": 11345, "count": 0 },
+        { "startOffset": 11638, "endOffset": 11675, "count": 0 },
+        { "startOffset": 11989, "endOffset": 11997, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createAbortablePromise",
+      "ranges": [{ "startOffset": 737, "endOffset": 2069, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "delay",
+      "ranges": [{ "startOffset": 2473, "endOffset": 2926, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cancelablePromiseRace",
+      "ranges": [{ "startOffset": 3104, "endOffset": 3799, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getRandomIntegerInclusive",
+      "ranges": [{ "startOffset": 4229, "endOffset": 4683, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isObject",
+      "ranges": [{ "startOffset": 4917, "endOffset": 5118, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isError",
+      "ranges": [{ "startOffset": 5315, "endOffset": 5533, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getErrorMessage",
+      "ranges": [{ "startOffset": 5799, "endOffset": 6269, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "computeSha256Hmac",
+      "ranges": [{ "startOffset": 6627, "endOffset": 6833, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "computeSha256Hash",
+      "ranges": [{ "startOffset": 7000, "endOffset": 7128, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isDefined",
+      "ranges": [{ "startOffset": 7304, "endOffset": 7392, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isObjectWithProperties",
+      "ranges": [{ "startOffset": 7602, "endOffset": 7893, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "objectHasProperty",
+      "ranges": [{ "startOffset": 8099, "endOffset": 8227, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "generateUUID",
+      "ranges": [{ "startOffset": 8480, "endOffset": 9269, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "randomUUID",
+      "ranges": [{ "startOffset": 9903, "endOffset": 9955, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "uint8ArrayToString",
+      "ranges": [{ "startOffset": 12341, "endOffset": 12435, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stringToUint8Array",
+      "ranges": [{ "startOffset": 12651, "endOffset": 12736, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

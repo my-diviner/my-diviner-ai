@@ -1,0 +1,19 @@
+{
+  "scriptId": "360",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/resources/embeddings.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 320, "count": 1 },
+        { "startOffset": 248, "endOffset": 256, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 179, "endOffset": 245, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

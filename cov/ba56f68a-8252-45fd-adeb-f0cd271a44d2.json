@@ -1,0 +1,31 @@
+{
+  "scriptId": "334",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/azure-openai/0.0.1/dist/embeddings.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5450, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AzureOpenAIEmbeddings",
+      "ranges": [{ "startOffset": 413, "endOffset": 4401, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "embedDocuments",
+      "ranges": [{ "startOffset": 4406, "endOffset": 4732, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "embedQuery",
+      "ranges": [{ "startOffset": 4737, "endOffset": 4922, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getEmbeddings",
+      "ranges": [{ "startOffset": 4927, "endOffset": 5447, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

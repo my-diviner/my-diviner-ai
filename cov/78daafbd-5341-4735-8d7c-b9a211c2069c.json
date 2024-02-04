@@ -1,0 +1,215 @@
+{
+  "scriptId": "320",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/openai/0.0.14/dist/chat_models.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 27226, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "extractGenericMessageCustomRole",
+      "ranges": [{ "startOffset": 702, "endOffset": 1035, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "messageToOpenAIRole",
+      "ranges": [
+        { "startOffset": 1043, "endOffset": 1694, "count": 1 },
+        { "startOffset": 1148, "endOffset": 1191, "count": 0 },
+        { "startOffset": 1200, "endOffset": 1242, "count": 0 },
+        { "startOffset": 1300, "endOffset": 1347, "count": 0 },
+        { "startOffset": 1356, "endOffset": 1395, "count": 0 },
+        { "startOffset": 1404, "endOffset": 1607, "count": 0 },
+        { "startOffset": 1616, "endOffset": 1686, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "openAIResponseToChatMessage",
+      "ranges": [
+        { "startOffset": 1695, "endOffset": 2083, "count": 1 },
+        { "startOffset": 1846, "endOffset": 1851, "count": 0 },
+        { "startOffset": 1981, "endOffset": 2075, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_convertDeltaToMessageChunk",
+      "ranges": [{ "startOffset": 2084, "endOffset": 3340, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convertMessagesToOpenAIParams",
+      "ranges": [{ "startOffset": 3341, "endOffset": 3784, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3486, "endOffset": 3780, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "lc_name",
+      "ranges": [{ "startOffset": 5119, "endOffset": 5165, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get callKeys",
+      "ranges": [{ "startOffset": 5170, "endOffset": 5454, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get lc_secrets",
+      "ranges": [{ "startOffset": 5459, "endOffset": 5659, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get lc_aliases",
+      "ranges": [{ "startOffset": 5664, "endOffset": 6062, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ChatOpenAI",
+      "ranges": [
+        { "startOffset": 6067, "endOffset": 13751, "count": 1 },
+        { "startOffset": 6153, "endOffset": 6158, "count": 0 },
+        { "startOffset": 10865, "endOffset": 10930, "count": 0 },
+        { "startOffset": 10968, "endOffset": 10989, "count": 0 },
+        { "startOffset": 10991, "endOffset": 11075, "count": 0 },
+        { "startOffset": 11335, "endOffset": 11412, "count": 0 },
+        { "startOffset": 11493, "endOffset": 11562, "count": 0 },
+        { "startOffset": 11639, "endOffset": 11706, "count": 0 },
+        { "startOffset": 11769, "endOffset": 11783, "count": 0 },
+        { "startOffset": 12053, "endOffset": 12072, "count": 0 },
+        { "startOffset": 12738, "endOffset": 12830, "count": 0 },
+        { "startOffset": 12883, "endOffset": 12977, "count": 0 },
+        { "startOffset": 13023, "endOffset": 13109, "count": 0 },
+        { "startOffset": 13325, "endOffset": 13335, "count": 0 },
+        { "startOffset": 13360, "endOffset": 13370, "count": 0 },
+        { "startOffset": 13456, "endOffset": 13478, "count": 0 },
+        { "startOffset": 13519, "endOffset": 13541, "count": 0 },
+        { "startOffset": 13582, "endOffset": 13603, "count": 0 },
+        { "startOffset": 13644, "endOffset": 13665, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "invocationParams",
+      "ranges": [
+        { "startOffset": 13823, "endOffset": 15046, "count": 2 },
+        { "startOffset": 14311, "endOffset": 14322, "count": 0 },
+        { "startOffset": 14763, "endOffset": 14804, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isStructuredToolArray",
+      "ranges": [
+        { "startOffset": 13859, "endOffset": 14025, "count": 2 },
+        { "startOffset": 13939, "endOffset": 14013, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 13970, "endOffset": 14012, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_identifyingParams",
+      "ranges": [{ "startOffset": 15070, "endOffset": 15240, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_streamResponseChunks",
+      "ranges": [{ "startOffset": 15245, "endOffset": 16926, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "identifyingParams",
+      "ranges": [{ "startOffset": 17006, "endOffset": 17075, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_generate",
+      "ranges": [
+        { "startOffset": 17099, "endOffset": 20312, "count": 1 },
+        { "startOffset": 17333, "endOffset": 18714, "count": 0 },
+        { "startOffset": 19128, "endOffset": 19133, "count": 0 },
+        { "startOffset": 19653, "endOffset": 19658, "count": 0 },
+        { "startOffset": 19713, "endOffset": 19718, "count": 0 },
+        { "startOffset": 19853, "endOffset": 19877, "count": 0 },
+        { "startOffset": 20028, "endOffset": 20032, "count": 0 },
+        { "startOffset": 20073, "endOffset": 20102, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 17908, "endOffset": 17967, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 17990, "endOffset": 18011, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getEstimatedTokenCountFromPrompt",
+      "ranges": [{ "startOffset": 20478, "endOffset": 22080, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getNumTokensFromGenerations",
+      "ranges": [{ "startOffset": 22173, "endOffset": 22709, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getNumTokensFromMessages",
+      "ranges": [{ "startOffset": 22714, "endOffset": 24714, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "completionWithRetry",
+      "ranges": [{ "startOffset": 24719, "endOffset": 25171, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 24861, "endOffset": 25163, "count": 1 },
+        { "startOffset": 25043, "endOffset": 25153, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_getClientOptions",
+      "ranges": [
+        { "startOffset": 25176, "endOffset": 26510, "count": 1 },
+        { "startOffset": 25907, "endOffset": 25961, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_llmType",
+      "ranges": [{ "startOffset": 26515, "endOffset": 26558, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_combineLLMOutput",
+      "ranges": [{ "startOffset": 26582, "endOffset": 27223, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "llmOutputs.reduce.tokenUsage.completionTokens",
+      "ranges": [
+        { "startOffset": 26650, "endOffset": 27059, "count": 1 },
+        { "startOffset": 26834, "endOffset": 26838, "count": 0 },
+        { "startOffset": 26921, "endOffset": 26925, "count": 0 },
+        { "startOffset": 27006, "endOffset": 27010, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

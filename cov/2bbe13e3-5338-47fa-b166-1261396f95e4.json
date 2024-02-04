@@ -1,0 +1,49 @@
+{
+  "scriptId": "384",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/resources/beta/threads/threads.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 1357, "count": 1 },
+        { "startOffset": 1290, "endOffset": 1298, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "n",
+      "ranges": [{ "startOffset": 435, "endOffset": 547, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 547, "endOffset": 690, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "retrieve",
+      "ranges": [{ "startOffset": 690, "endOffset": 806, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "update",
+      "ranges": [{ "startOffset": 806, "endOffset": 930, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "del",
+      "ranges": [{ "startOffset": 930, "endOffset": 1044, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createAndRun",
+      "ranges": [{ "startOffset": 1044, "endOffset": 1172, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1175, "endOffset": 1287, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

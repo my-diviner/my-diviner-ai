@@ -1,0 +1,70 @@
+{
+  "scriptId": "447",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/callbacks/base.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3985, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get lc_namespace",
+      "ranges": [{ "startOffset": 669, "endOffset": 754, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get lc_secrets",
+      "ranges": [{ "startOffset": 759, "endOffset": 809, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get lc_attributes",
+      "ranges": [{ "startOffset": 814, "endOffset": 867, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get lc_aliases",
+      "ranges": [{ "startOffset": 872, "endOffset": 922, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lc_name",
+      "ranges": [{ "startOffset": 1162, "endOffset": 1205, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get lc_id",
+      "ranges": [{ "startOffset": 1281, "endOffset": 1412, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BaseCallbackHandler",
+      "ranges": [
+        { "startOffset": 1417, "endOffset": 3266, "count": 1 },
+        { "startOffset": 2887, "endOffset": 2893, "count": 0 },
+        { "startOffset": 2937, "endOffset": 2942, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copy",
+      "ranges": [{ "startOffset": 3271, "endOffset": 3328, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toJSON",
+      "ranges": [{ "startOffset": 3333, "endOffset": 3406, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toJSONNotImplemented",
+      "ranges": [{ "startOffset": 3411, "endOffset": 3512, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromMethods",
+      "ranges": [{ "startOffset": 3524, "endOffset": 3982, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

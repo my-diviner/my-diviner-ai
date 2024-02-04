@@ -1,0 +1,34 @@
+{
+  "scriptId": "407",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/resources/images.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 902, "count": 1 },
+        { "startOffset": 848, "endOffset": 864, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createVariation",
+      "ranges": [{ "startOffset": 267, "endOffset": 412, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "edit",
+      "ranges": [{ "startOffset": 514, "endOffset": 643, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "generate",
+      "ranges": [{ "startOffset": 704, "endOffset": 814, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 818, "endOffset": 839, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

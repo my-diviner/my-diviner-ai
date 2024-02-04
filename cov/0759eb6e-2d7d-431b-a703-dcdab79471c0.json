@@ -1,0 +1,24 @@
+{
+  "scriptId": "486",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/resources/audio/speech.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 421, "count": 1 },
+        { "startOffset": 367, "endOffset": 383, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 207, "endOffset": 333, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 337, "endOffset": 358, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

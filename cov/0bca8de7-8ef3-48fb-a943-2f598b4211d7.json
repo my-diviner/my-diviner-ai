@@ -1,0 +1,11 @@
+{
+  "scriptId": "432",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/tslib/2.6.2/modules/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1338, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

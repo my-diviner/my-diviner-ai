@@ -1,0 +1,84 @@
+{
+  "scriptId": "508",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/openai/1.0.0-beta.11/dist-esm/src/api/client/openAIClient/deserializers.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3867, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getContentFilterResultsForPrompt",
+      "ranges": [
+        { "startOffset": 154, "endOffset": 774, "count": 127 },
+        { "startOffset": 341, "endOffset": 364, "count": 2 },
+        { "startOffset": 365, "endOffset": 385, "count": 125 },
+        { "startOffset": 436, "endOffset": 444, "count": 125 },
+        { "startOffset": 445, "endOffset": 733, "count": 2 },
+        { "startOffset": 761, "endOffset": 765, "count": 2 },
+        { "startOffset": 766, "endOffset": 770, "count": 125 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 455, "endOffset": 732, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getCompletionsResult",
+      "ranges": [{ "startOffset": 782, "endOffset": 1641, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getChatCompletionsResult",
+      "ranges": [
+        { "startOffset": 1649, "endOffset": 2748, "count": 127 },
+        { "startOffset": 2125, "endOffset": 2129, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 2156, "endOffset": 2741, "count": 126 },
+        { "startOffset": 2420, "endOffset": 2424, "count": 1 },
+        { "startOffset": 2425, "endOffset": 2457, "count": 125 },
+        { "startOffset": 2471, "endOffset": 2475, "count": 125 },
+        { "startOffset": 2476, "endOffset": 2512, "count": 1 },
+        { "startOffset": 2561, "endOffset": 2565, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseMessage",
+      "ranges": [
+        { "startOffset": 2749, "endOffset": 3272, "count": 126 },
+        { "startOffset": 3015, "endOffset": 3027, "count": 0 },
+        { "startOffset": 3068, "endOffset": 3267, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseError",
+      "ranges": [{ "startOffset": 3273, "endOffset": 3465, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseContentFilterResultDetailsForPromptOutput",
+      "ranges": [
+        { "startOffset": 3466, "endOffset": 3648, "count": 2 },
+        { "startOffset": 3604, "endOffset": 3623, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseContentFilterResultsForChoiceOutput",
+      "ranges": [
+        { "startOffset": 3649, "endOffset": 3825, "count": 126 },
+        { "startOffset": 3781, "endOffset": 3800, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

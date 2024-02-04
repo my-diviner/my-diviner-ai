@@ -1,0 +1,19 @@
+{
+  "scriptId": "134",
+  "url": "node:timers",
+  "functions": [
+    {
+      "functionName": "setTimeout",
+      "ranges": [{ "startOffset": 794, "endOffset": 947, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "clearTimeout",
+      "ranges": [
+        { "startOffset": 1132, "endOffset": 1394, "count": 1 },
+        { "startOffset": 1188, "endOffset": 1205, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

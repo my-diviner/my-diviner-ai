@@ -1,0 +1,29 @@
+{
+  "scriptId": "566",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/uuid/9.0.1/dist/v3.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 735, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 734, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 194, "endOffset": 670, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_interopRequireDefault",
+      "ranges": [
+        { "startOffset": 472, "endOffset": 567, "count": 2 },
+        { "startOffset": 546, "endOffset": 564, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

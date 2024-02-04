@@ -1,0 +1,29 @@
+{
+  "scriptId": "471",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/resources/beta/threads/runs/steps.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 1184, "count": 1 },
+        { "startOffset": 1132, "endOffset": 1147, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "retrieve",
+      "ranges": [{ "startOffset": 357, "endOffset": 609, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "list",
+      "ranges": [{ "startOffset": 614, "endOffset": 1003, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1056, "endOffset": 1124, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

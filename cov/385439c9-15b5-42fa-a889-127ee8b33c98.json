@@ -1,0 +1,16 @@
+{
+  "scriptId": "378",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/resource.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 180, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "t",
+      "ranges": [{ "startOffset": 86, "endOffset": 116, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

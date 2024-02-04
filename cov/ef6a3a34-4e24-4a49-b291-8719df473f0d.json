@@ -1,0 +1,55 @@
+{
+  "scriptId": "531",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/openai/1.0.0-beta.11/dist-esm/src/api/readableStreamUtils.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2310, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "polyfillStream",
+      "ranges": [{ "startOffset": 344, "endOffset": 429, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "makeAsyncIterable",
+      "ranges": [
+        { "startOffset": 430, "endOffset": 693, "count": 1 },
+        { "startOffset": 512, "endOffset": 595, "count": 0 },
+        { "startOffset": 623, "endOffset": 691, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "webStream.<computed>",
+      "ranges": [{ "startOffset": 556, "endOffset": 588, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "webStream.values",
+      "ranges": [{ "startOffset": 652, "endOffset": 684, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toAsyncIterable",
+      "ranges": [{ "startOffset": 694, "endOffset": 1288, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "streamToText",
+      "ranges": [{ "startOffset": 1296, "endOffset": 1820, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getBuffersLength",
+      "ranges": [{ "startOffset": 1821, "endOffset": 1923, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "concatBuffers",
+      "ranges": [{ "startOffset": 1924, "endOffset": 2262, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

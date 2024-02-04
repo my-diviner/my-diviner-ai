@@ -1,0 +1,66 @@
+{
+  "scriptId": "499",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/utils/fast-json-patch/src/helpers.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5232, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hasOwnProperty",
+      "ranges": [{ "startOffset": 225, "endOffset": 305, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_objectKeys",
+      "ranges": [{ "startOffset": 313, "endOffset": 734, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_deepClone",
+      "ranges": [{ "startOffset": 926, "endOffset": 1306, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isInteger",
+      "ranges": [{ "startOffset": 1356, "endOffset": 1646, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "escapePathComponent",
+      "ranges": [{ "startOffset": 1752, "endOffset": 1931, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "unescapePathComponent",
+      "ranges": [{ "startOffset": 2045, "endOffset": 2142, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getPathRecursive",
+      "ranges": [{ "startOffset": 2150, "endOffset": 2659, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getPath",
+      "ranges": [{ "startOffset": 2667, "endOffset": 2900, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hasUndefined",
+      "ranges": [{ "startOffset": 2989, "endOffset": 3651, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "patchErrorMessageFormatter",
+      "ranges": [{ "startOffset": 3652, "endOffset": 4061, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "PatchError",
+      "ranges": [{ "startOffset": 4106, "endOffset": 5229, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

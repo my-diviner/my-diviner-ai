@@ -1,0 +1,11 @@
+{
+  "scriptId": "311",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/azure-openai/0.0.1/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 31, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

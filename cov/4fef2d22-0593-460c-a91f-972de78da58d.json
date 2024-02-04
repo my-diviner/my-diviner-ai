@@ -1,0 +1,11 @@
+{
+  "scriptId": "447",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/js-tiktoken/1.0.10/dist/lite.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 73, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

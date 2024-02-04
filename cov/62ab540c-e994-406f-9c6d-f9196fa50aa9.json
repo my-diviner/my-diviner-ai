@@ -1,0 +1,27 @@
+{
+  "scriptId": "416",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/resources/chat/completions.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 396, "count": 1 },
+        { "startOffset": 332, "endOffset": 353, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [
+        { "startOffset": 152, "endOffset": 288, "count": 1 },
+        { "startOffset": 270, "endOffset": 278, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 292, "endOffset": 318, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

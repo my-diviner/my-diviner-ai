@@ -1,0 +1,39 @@
+{
+  "scriptId": "322",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/index.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 5808, "count": 1 },
+        { "startOffset": 5732, "endOffset": 5748, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "OpenAI",
+      "ranges": [{ "startOffset": 1647, "endOffset": 3644, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "defaultQuery",
+      "ranges": [{ "startOffset": 3649, "endOffset": 3714, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "defaultHeaders",
+      "ranges": [{ "startOffset": 3719, "endOffset": 3917, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "authHeaders",
+      "ranges": [{ "startOffset": 3922, "endOffset": 4006, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5078, "endOffset": 5723, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

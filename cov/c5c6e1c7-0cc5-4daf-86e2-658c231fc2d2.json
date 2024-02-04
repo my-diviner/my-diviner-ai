@@ -1,0 +1,24 @@
+{
+  "scriptId": "362",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/resources/completions.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 391, "count": 1 },
+        { "startOffset": 327, "endOffset": 348, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 152, "endOffset": 283, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 287, "endOffset": 313, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

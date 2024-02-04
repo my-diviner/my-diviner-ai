@@ -1,0 +1,11 @@
+{
+  "scriptId": "354",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/_shims.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 349, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

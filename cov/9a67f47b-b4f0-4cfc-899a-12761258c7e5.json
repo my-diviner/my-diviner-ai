@@ -1,0 +1,11 @@
+{
+  "scriptId": "342",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/language_models/chat_models.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 54, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

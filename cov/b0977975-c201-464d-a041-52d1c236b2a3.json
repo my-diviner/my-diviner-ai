@@ -1,0 +1,11 @@
+{
+  "scriptId": "327",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/openai/0.0.14/dist/types.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 11, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

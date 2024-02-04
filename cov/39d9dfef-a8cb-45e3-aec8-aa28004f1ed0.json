@@ -1,0 +1,29 @@
+{
+  "scriptId": "397",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/resources/beta/threads/messages/files.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 810, "count": 1 },
+        { "startOffset": 725, "endOffset": 733, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "retrieve",
+      "ranges": [{ "startOffset": 340, "endOffset": 485, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "list",
+      "ranges": [{ "startOffset": 485, "endOffset": 666, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 689, "endOffset": 722, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

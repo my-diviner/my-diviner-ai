@@ -1,0 +1,44 @@
+{
+  "scriptId": "441",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/zod-to-json-schema/3.22.4/dist/esm/parsers/string.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7893, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseStringDef",
+      "ranges": [
+        { "startOffset": 1464, "endOffset": 5667, "count": 1 },
+        { "startOffset": 1768, "endOffset": 5643, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "processPattern",
+      "ranges": [{ "startOffset": 1554, "endOffset": 1705, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5600, "endOffset": 5610, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "escapeNonAlphaNumeric",
+      "ranges": [{ "startOffset": 5698, "endOffset": 5796, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addFormat",
+      "ranges": [{ "startOffset": 5816, "endOffset": 6837, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addPattern",
+      "ranges": [{ "startOffset": 6858, "endOffset": 7891, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

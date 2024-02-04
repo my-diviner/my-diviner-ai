@@ -1,0 +1,31 @@
+{
+  "scriptId": "510",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/langgraph/0.0.3/dist/channels/base.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1590, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "EmptyChannelError",
+      "ranges": [{ "startOffset": 80, "endOffset": 173, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "InvalidUpdateError",
+      "ranges": [{ "startOffset": 228, "endOffset": 322, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "emptyChannels",
+      "ranges": [{ "startOffset": 332, "endOffset": 669, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createCheckpoint",
+      "ranges": [{ "startOffset": 677, "endOffset": 1589, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

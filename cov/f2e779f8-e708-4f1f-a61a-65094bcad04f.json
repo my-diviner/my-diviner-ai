@@ -1,0 +1,16 @@
+{
+  "scriptId": "373",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/embeddings.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 630, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Embeddings",
+      "ranges": [{ "startOffset": 192, "endOffset": 627, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

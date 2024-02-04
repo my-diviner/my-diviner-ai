@@ -1,0 +1,16 @@
+{
+  "scriptId": "140",
+  "url": "node:util",
+  "functions": [
+    {
+      "functionName": "deprecate",
+      "ranges": [{ "startOffset": 6120, "endOffset": 7281, "count": 1 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deprecated",
+      "ranges": [{ "startOffset": 6343, "endOffset": 6895, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

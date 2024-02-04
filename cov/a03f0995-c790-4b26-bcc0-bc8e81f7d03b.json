@@ -1,0 +1,21 @@
+{
+  "scriptId": "510",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/langgraph/0.0.3/dist/pregel/io.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1711, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapInput",
+      "ranges": [{ "startOffset": 96, "endOffset": 798, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mapOutput",
+      "ranges": [{ "startOffset": 882, "endOffset": 1710, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

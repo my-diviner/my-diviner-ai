@@ -1,0 +1,19 @@
+{
+  "scriptId": "380",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/resources/audio/transcriptions.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 434, "count": 1 },
+        { "startOffset": 354, "endOffset": 362, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 272, "endOffset": 351, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

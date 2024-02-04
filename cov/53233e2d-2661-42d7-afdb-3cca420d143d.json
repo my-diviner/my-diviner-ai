@@ -1,0 +1,26 @@
+{
+  "scriptId": "507",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/langgraph/0.0.3/dist/checkpoint/base.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 512, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "emptyCheckpoint",
+      "ranges": [{ "startOffset": 7, "endOffset": 191, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BaseCheckpointSaver",
+      "ranges": [{ "startOffset": 231, "endOffset": 460, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get configSpecs",
+      "ranges": [{ "startOffset": 465, "endOffset": 509, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

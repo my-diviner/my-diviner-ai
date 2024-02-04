@@ -1,0 +1,67 @@
+{
+  "scriptId": "430",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/utils/async_caller.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4397, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "defaultFailedAttemptHandler",
+      "ranges": [
+        { "startOffset": 293, "endOffset": 1152, "count": 6 },
+        { "startOffset": 532, "endOffset": 560, "count": 0 },
+        { "startOffset": 668, "endOffset": 696, "count": 0 },
+        { "startOffset": 803, "endOffset": 811, "count": 0 },
+        { "startOffset": 845, "endOffset": 881, "count": 0 },
+        { "startOffset": 883, "endOffset": 911, "count": 0 },
+        { "startOffset": 999, "endOffset": 1005, "count": 0 },
+        { "startOffset": 1032, "endOffset": 1150, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AsyncCaller",
+      "ranges": [
+        { "startOffset": 1797, "endOffset": 2911, "count": 2 },
+        { "startOffset": 2652, "endOffset": 2656, "count": 1 },
+        { "startOffset": 2822, "endOffset": 2833, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "call",
+      "ranges": [{ "startOffset": 2983, "endOffset": 3606, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "queue.add.throwOnTimeout",
+      "ranges": [{ "startOffset": 3039, "endOffset": 3572, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "pRetry.onFailedAttempt",
+      "ranges": [{ "startOffset": 3052, "endOffset": 3331, "count": 6 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 3082, "endOffset": 3330, "count": 6 },
+        { "startOffset": 3203, "endOffset": 3247, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "callWithOptions",
+      "ranges": [{ "startOffset": 3678, "endOffset": 4267, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetch",
+      "ranges": [{ "startOffset": 4272, "endOffset": 4394, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "scriptId": "449",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/utils/stream.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7774, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "IterableReadableStream",
+      "ranges": [{ "startOffset": 245, "endOffset": 471, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ensureReader",
+      "ranges": [{ "startOffset": 476, "endOffset": 580, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "next",
+      "ranges": [{ "startOffset": 585, "endOffset": 1241, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "return",
+      "ranges": [{ "startOffset": 1246, "endOffset": 1652, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "throw",
+      "ranges": [{ "startOffset": 1724, "endOffset": 2032, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2037, "endOffset": 2090, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromReadableStream",
+      "ranges": [{ "startOffset": 2102, "endOffset": 3051, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromAsyncGenerator",
+      "ranges": [{ "startOffset": 3063, "endOffset": 3690, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "atee",
+      "ranges": [{ "startOffset": 3700, "endOffset": 4337, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "concat",
+      "ranges": [{ "startOffset": 4345, "endOffset": 5654, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "AsyncGeneratorWithSetup",
+      "ranges": [{ "startOffset": 5698, "endOffset": 7124, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "next",
+      "ranges": [{ "startOffset": 7129, "endOffset": 7326, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "return",
+      "ranges": [{ "startOffset": 7331, "endOffset": 7403, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "throw",
+      "ranges": [{ "startOffset": 7408, "endOffset": 7470, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 7475, "endOffset": 7528, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "pipeGeneratorWithSetup",
+      "ranges": [{ "startOffset": 7538, "endOffset": 7773, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

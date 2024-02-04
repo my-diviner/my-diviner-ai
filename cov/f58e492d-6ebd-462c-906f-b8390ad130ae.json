@@ -1,0 +1,81 @@
+{
+  "scriptId": "353",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/streaming.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4793, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "o",
+      "ranges": [{ "startOffset": 345, "endOffset": 396, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromSSEResponse",
+      "ranges": [{ "startOffset": 403, "endOffset": 1254, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromReadableStream",
+      "ranges": [{ "startOffset": 1261, "endOffset": 1716, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "y",
+      "ranges": [{ "startOffset": 1716, "endOffset": 1764, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "tee",
+      "ranges": [{ "startOffset": 1764, "endOffset": 1963, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toReadableStream",
+      "ranges": [{ "startOffset": 1963, "endOffset": 2255, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "d",
+      "ranges": [{ "startOffset": 2265, "endOffset": 2323, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decode",
+      "ranges": [{ "startOffset": 2323, "endOffset": 2731, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "o",
+      "ranges": [{ "startOffset": 2743, "endOffset": 2791, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decode",
+      "ranges": [{ "startOffset": 2791, "endOffset": 3186, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decodeText",
+      "ranges": [{ "startOffset": 3186, "endOffset": 4005, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "flush",
+      "ranges": [{ "startOffset": 4005, "endOffset": 4135, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "g",
+      "ranges": [{ "startOffset": 4288, "endOffset": 4392, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "m",
+      "ranges": [{ "startOffset": 4392, "endOffset": 4702, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

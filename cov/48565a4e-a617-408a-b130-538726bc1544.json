@@ -1,0 +1,118 @@
+{
+  "scriptId": "509",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/langsmith/0.0.66/dist/utils/env.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6938, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isBrowser",
+      "ranges": [
+        { "startOffset": 145, "endOffset": 222, "count": 1 },
+        { "startOffset": 181, "endOffset": 222, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isWebWorker",
+      "ranges": [{ "startOffset": 251, "endOffset": 385, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isJsDom",
+      "ranges": [
+        { "startOffset": 410, "endOffset": 623, "count": 1 },
+        { "startOffset": 447, "endOffset": 474, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isDeno",
+      "ranges": [{ "startOffset": 735, "endOffset": 768, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isNode",
+      "ranges": [{ "startOffset": 841, "endOffset": 993, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getEnv",
+      "ranges": [
+        { "startOffset": 1017, "endOffset": 1455, "count": 1 },
+        { "startOffset": 1044, "endOffset": 1077, "count": 0 },
+        { "startOffset": 1099, "endOffset": 1137, "count": 0 },
+        { "startOffset": 1161, "endOffset": 1196, "count": 0 },
+        { "startOffset": 1225, "endOffset": 1265, "count": 0 },
+        { "startOffset": 1290, "endOffset": 1326, "count": 0 },
+        { "startOffset": 1385, "endOffset": 1431, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getRuntimeEnvironment",
+      "ranges": [{ "startOffset": 1488, "endOffset": 1879, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getLangChainEnvVars",
+      "ranges": [{ "startOffset": 2200, "endOffset": 2920, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getLangChainEnvVarsMetadata",
+      "ranges": [
+        { "startOffset": 3128, "endOffset": 3989, "count": 1 },
+        { "startOffset": 3218, "endOffset": 3223, "count": 0 },
+        { "startOffset": 3487, "endOffset": 3967, "count": 65 },
+        { "startOffset": 3530, "endOffset": 3570, "count": 5 },
+        { "startOffset": 3571, "endOffset": 3609, "count": 5 },
+        { "startOffset": 3610, "endOffset": 3659, "count": 1 },
+        { "startOffset": 3660, "endOffset": 3712, "count": 1 },
+        { "startOffset": 3713, "endOffset": 3764, "count": 1 },
+        { "startOffset": 3766, "endOffset": 3961, "count": 1 },
+        { "startOffset": 3817, "endOffset": 3880, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getEnvironmentVariables",
+      "ranges": [
+        { "startOffset": 4404, "endOffset": 5167, "count": 1 },
+        { "startOffset": 4837, "endOffset": 5165, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4713, "endOffset": 4821, "count": 65 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getEnvironmentVariable",
+      "ranges": [
+        { "startOffset": 5175, "endOffset": 5594, "count": 23 },
+        { "startOffset": 5526, "endOffset": 5537, "count": 0 },
+        { "startOffset": 5549, "endOffset": 5592, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "setEnvironmentVariable",
+      "ranges": [{ "startOffset": 5602, "endOffset": 5784, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getShas",
+      "ranges": [
+        { "startOffset": 5999, "endOffset": 6937, "count": 1 },
+        { "startOffset": 6060, "endOffset": 6100, "count": 0 },
+        { "startOffset": 6752, "endOffset": 6889, "count": 19 },
+        { "startOffset": 6840, "endOffset": 6883, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

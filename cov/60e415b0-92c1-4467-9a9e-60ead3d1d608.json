@@ -1,0 +1,11 @@
+{
+  "scriptId": "498",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/base64-js/1.5.1/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 420, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

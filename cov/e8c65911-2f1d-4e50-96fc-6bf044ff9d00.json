@@ -1,0 +1,48 @@
+{
+  "scriptId": "478",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/langgraph/0.0.3/dist/channels/last_value.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1289, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "LastValue",
+      "ranges": [{ "startOffset": 213, "endOffset": 626, "count": 32 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "empty",
+      "ranges": [
+        { "startOffset": 631, "endOffset": 791, "count": 16 },
+        { "startOffset": 714, "endOffset": 763, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "update",
+      "ranges": [
+        { "startOffset": 796, "endOffset": 1003, "count": 144 },
+        { "startOffset": 846, "endOffset": 877, "count": 108 },
+        { "startOffset": 877, "endOffset": 911, "count": 36 },
+        { "startOffset": 911, "endOffset": 966, "count": 0 },
+        { "startOffset": 966, "endOffset": 1002, "count": 36 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [
+        { "startOffset": 1008, "endOffset": 1141, "count": 25 },
+        { "startOffset": 1054, "endOffset": 1108, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "checkpoint",
+      "ranges": [{ "startOffset": 1146, "endOffset": 1286, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

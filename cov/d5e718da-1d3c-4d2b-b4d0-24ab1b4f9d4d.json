@@ -1,0 +1,44 @@
+{
+  "scriptId": "385",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/resources/fine-tuning/jobs.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 996, "count": 1 },
+        { "startOffset": 882, "endOffset": 890, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 329, "endOffset": 401, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "retrieve",
+      "ranges": [{ "startOffset": 401, "endOffset": 467, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "list",
+      "ranges": [{ "startOffset": 467, "endOffset": 570, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cancel",
+      "ranges": [{ "startOffset": 570, "endOffset": 642, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listEvents",
+      "ranges": [{ "startOffset": 642, "endOffset": 773, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 816, "endOffset": 879, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

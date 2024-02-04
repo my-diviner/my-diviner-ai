@@ -1,0 +1,49 @@
+{
+  "scriptId": "382",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/resources/beta/assistants/assistants.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 1334, "count": 1 },
+        { "startOffset": 1241, "endOffset": 1249, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "r",
+      "ranges": [{ "startOffset": 421, "endOffset": 492, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 492, "endOffset": 612, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "retrieve",
+      "ranges": [{ "startOffset": 612, "endOffset": 731, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "update",
+      "ranges": [{ "startOffset": 731, "endOffset": 858, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "list",
+      "ranges": [{ "startOffset": 858, "endOffset": 1009, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "del",
+      "ranges": [{ "startOffset": 1009, "endOffset": 1126, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1149, "endOffset": 1238, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "scriptId": "332",
+  "url": "https://esm.sh/v135/openai@4.26.0/denonext/pagination.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 836, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "n",
+      "ranges": [{ "startOffset": 166, "endOffset": 244, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getPaginatedItems",
+      "ranges": [{ "startOffset": 244, "endOffset": 285, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "nextPageParams",
+      "ranges": [{ "startOffset": 285, "endOffset": 314, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "nextPageInfo",
+      "ranges": [{ "startOffset": 314, "endOffset": 341, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "s",
+      "ranges": [{ "startOffset": 361, "endOffset": 418, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getPaginatedItems",
+      "ranges": [{ "startOffset": 418, "endOffset": 459, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "nextPageParams",
+      "ranges": [{ "startOffset": 459, "endOffset": 633, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "nextPageInfo",
+      "ranges": [{ "startOffset": 633, "endOffset": 761, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

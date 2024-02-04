@@ -1,0 +1,31 @@
+{
+  "scriptId": "508",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/langsmith/0.0.66/dist/utils/async_caller.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4032, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AsyncCaller",
+      "ranges": [{ "startOffset": 874, "endOffset": 1705, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "call",
+      "ranges": [{ "startOffset": 1777, "endOffset": 3241, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "callWithOptions",
+      "ranges": [{ "startOffset": 3313, "endOffset": 3902, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetch",
+      "ranges": [{ "startOffset": 3907, "endOffset": 4029, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

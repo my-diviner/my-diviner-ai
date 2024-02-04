@@ -1,0 +1,16 @@
+{
+  "scriptId": "472",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/openai/1.0.0-beta.11/dist-esm/src/api/policies/nonAzure.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1623, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "nonAzurePolicy",
+      "ranges": [{ "startOffset": 82, "endOffset": 1586, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

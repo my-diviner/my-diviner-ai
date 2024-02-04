@@ -1,0 +1,54 @@
+{
+  "scriptId": "397",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/resources/files.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 3295, "count": 1 },
+        { "startOffset": 3243, "endOffset": 3258, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 1036, "endOffset": 1160, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "retrieve",
+      "ranges": [{ "startOffset": 1231, "endOffset": 1326, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "list",
+      "ranges": [{ "startOffset": 1331, "endOffset": 1544, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "del",
+      "ranges": [{ "startOffset": 1587, "endOffset": 1680, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "content",
+      "ranges": [{ "startOffset": 1752, "endOffset": 1885, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "retrieveContent",
+      "ranges": [{ "startOffset": 2030, "endOffset": 2242, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "waitForProcessing",
+      "ranges": [{ "startOffset": 2340, "endOffset": 3023, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3161, "endOffset": 3235, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

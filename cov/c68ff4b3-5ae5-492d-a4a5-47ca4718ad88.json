@@ -1,0 +1,21 @@
+{
+  "scriptId": "401",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/zod-to-json-schema/3.22.4/dist/esm/parsers/object.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3655, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseObjectDefX",
+      "ranges": [{ "startOffset": 50, "endOffset": 2401, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseObjectDef",
+      "ranges": [{ "startOffset": 2409, "endOffset": 3654, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

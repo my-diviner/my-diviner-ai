@@ -1,0 +1,31 @@
+{
+  "scriptId": "322",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/openai/0.0.14/dist/azure/chat_models.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1679, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_llmType",
+      "ranges": [{ "startOffset": 102, "endOffset": 151, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get lc_aliases",
+      "ranges": [{ "startOffset": 156, "endOffset": 351, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "AzureChatOpenAI",
+      "ranges": [{ "startOffset": 356, "endOffset": 1077, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toJSON",
+      "ranges": [{ "startOffset": 1149, "endOffset": 1676, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

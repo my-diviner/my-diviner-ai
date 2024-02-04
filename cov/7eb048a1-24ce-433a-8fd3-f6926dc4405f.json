@@ -1,0 +1,50 @@
+{
+  "scriptId": "557",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/http-proxy-agent/5.0.0/dist/agent.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6929, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 6928, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 194, "endOffset": 6864, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__awaiter",
+      "ranges": [{ "startOffset": 312, "endOffset": 947, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 1005, "endOffset": 1086, "count": 5 },
+        { "startOffset": 1057, "endOffset": 1062, "count": 1 },
+        { "startOffset": 1063, "endOffset": 1083, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isHTTPS",
+      "ranges": [{ "startOffset": 1505, "endOffset": 1614, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "HttpProxyAgent",
+      "ranges": [{ "startOffset": 1840, "endOffset": 3213, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "callback",
+      "ranges": [{ "startOffset": 3355, "endOffset": 6792, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

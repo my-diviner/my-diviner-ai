@@ -1,0 +1,21 @@
+{
+  "scriptId": "461",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/_shims/MultipartBody.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 286, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MultipartBody",
+      "ranges": [{ "startOffset": 119, "endOffset": 170, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 175, "endOffset": 241, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

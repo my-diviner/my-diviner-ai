@@ -1,0 +1,30 @@
+{
+  "scriptId": "511",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/decamelize/1.2.0/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 644, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 643, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 194, "endOffset": 579, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "module.exports",
+      "ranges": [
+        { "startOffset": 285, "endOffset": 575, "count": 7 },
+        { "startOffset": 337, "endOffset": 385, "count": 0 },
+        { "startOffset": 427, "endOffset": 432, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

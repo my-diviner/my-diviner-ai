@@ -1,0 +1,42 @@
+{
+  "scriptId": "548",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/https-proxy-agent/5.0.1/dist/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 900, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 899, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 194, "endOffset": 835, "count": 1 },
+        { "startOffset": 726, "endOffset": 757, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 324, "endOffset": 405, "count": 1 },
+        { "startOffset": 382, "endOffset": 402, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createHttpsProxyAgent",
+      "ranges": [{ "startOffset": 460, "endOffset": 538, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 540, "endOffset": 702, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "scriptId": "477",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/utils/fast-json-patch/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 558, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

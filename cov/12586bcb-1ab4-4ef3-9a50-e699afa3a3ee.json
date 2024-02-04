@@ -1,0 +1,44 @@
+{
+  "scriptId": "419",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/resources/fine-tuning/jobs.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 2148, "count": 1 },
+        { "startOffset": 2098, "endOffset": 2112, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 669, "endOffset": 775, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "retrieve",
+      "ranges": [{ "startOffset": 935, "endOffset": 1059, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "list",
+      "ranges": [{ "startOffset": 1064, "endOffset": 1291, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cancel",
+      "ranges": [{ "startOffset": 1355, "endOffset": 1485, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listEvents",
+      "ranges": [{ "startOffset": 1490, "endOffset": 1827, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1946, "endOffset": 2091, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

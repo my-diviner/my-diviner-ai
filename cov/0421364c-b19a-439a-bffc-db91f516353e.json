@@ -1,0 +1,111 @@
+{
+  "scriptId": "457",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/tracers/console.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7887, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "wrap",
+      "ranges": [{ "startOffset": 74, "endOffset": 153, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "tryJsonStringify",
+      "ranges": [{ "startOffset": 154, "endOffset": 308, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "elapsed",
+      "ranges": [{ "startOffset": 309, "endOffset": 536, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConsoleCallbackHandler",
+      "ranges": [{ "startOffset": 998, "endOffset": 1242, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "persistRun",
+      "ranges": [{ "startOffset": 1468, "endOffset": 1526, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getParents",
+      "ranges": [{ "startOffset": 1734, "endOffset": 2133, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getBreadcrumbs",
+      "ranges": [{ "startOffset": 2381, "endOffset": 2784, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onChainStart",
+      "ranges": [{ "startOffset": 2951, "endOffset": 3174, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onChainEnd",
+      "ranges": [{ "startOffset": 3314, "endOffset": 3552, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onChainError",
+      "ranges": [{ "startOffset": 3697, "endOffset": 3933, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onLLMStart",
+      "ranges": [{ "startOffset": 4074, "endOffset": 4427, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onLLMEnd",
+      "ranges": [{ "startOffset": 4564, "endOffset": 4797, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onLLMError",
+      "ranges": [{ "startOffset": 4939, "endOffset": 5169, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onToolStart",
+      "ranges": [{ "startOffset": 5311, "endOffset": 5517, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onToolEnd",
+      "ranges": [{ "startOffset": 5655, "endOffset": 5877, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onToolError",
+      "ranges": [{ "startOffset": 6020, "endOffset": 6253, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onRetrieverStart",
+      "ranges": [{ "startOffset": 6405, "endOffset": 6640, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onRetrieverEnd",
+      "ranges": [{ "startOffset": 6788, "endOffset": 7038, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onRetrieverError",
+      "ranges": [{ "startOffset": 7191, "endOffset": 7439, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onAgentAction",
+      "ranges": [{ "startOffset": 7603, "endOffset": 7884, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

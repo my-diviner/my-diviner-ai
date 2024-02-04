@@ -1,0 +1,78 @@
+{
+  "scriptId": "414",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/openai/1.0.0-beta.11/dist-esm/src/OpenAIClient.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8901, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "OpenAIClient",
+      "ranges": [
+        { "startOffset": 1721, "endOffset": 3123, "count": 2 },
+        { "startOffset": 2085, "endOffset": 2670, "count": 0 },
+        { "startOffset": 2806, "endOffset": 3113, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getCompletions",
+      "ranges": [{ "startOffset": 3561, "endOffset": 3767, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "streamCompletions",
+      "ranges": [{ "startOffset": 4229, "endOffset": 4421, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getEmbeddings",
+      "ranges": [{ "startOffset": 4846, "endOffset": 5076, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getChatCompletions",
+      "ranges": [{ "startOffset": 5553, "endOffset": 5771, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "streamChatCompletions",
+      "ranges": [{ "startOffset": 6270, "endOffset": 6494, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getImages",
+      "ranges": [{ "startOffset": 6942, "endOffset": 7138, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getAudioTranscription",
+      "ranges": [{ "startOffset": 7143, "endOffset": 7855, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getAudioTranslation",
+      "ranges": [{ "startOffset": 7860, "endOffset": 8566, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setModel",
+      "ranges": [
+        { "startOffset": 8571, "endOffset": 8678, "count": 2 },
+        { "startOffset": 8626, "endOffset": 8672, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createOpenAIEndpoint",
+      "ranges": [{ "startOffset": 8681, "endOffset": 8772, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isCred",
+      "ranges": [{ "startOffset": 8773, "endOffset": 8860, "count": 2 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

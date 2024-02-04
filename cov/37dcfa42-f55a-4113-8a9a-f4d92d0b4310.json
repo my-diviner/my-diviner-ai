@@ -1,0 +1,11 @@
+{
+  "scriptId": "407",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/openai/4.26.0/resources/chat/index.mjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 173, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

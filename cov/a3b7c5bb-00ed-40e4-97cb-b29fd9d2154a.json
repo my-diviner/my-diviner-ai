@@ -1,0 +1,44 @@
+{
+  "scriptId": "378",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/runnables/passthrough.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3994, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "lc_name",
+      "ranges": [{ "startOffset": 920, "endOffset": 975, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RunnablePassthrough",
+      "ranges": [
+        { "startOffset": 980, "endOffset": 1663, "count": 15 },
+        { "startOffset": 1609, "endOffset": 1657, "count": 14 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "invoke",
+      "ranges": [{ "startOffset": 1668, "endOffset": 1872, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1815, "endOffset": 1848, "count": 16 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "transform",
+      "ranges": [{ "startOffset": 1877, "endOffset": 2801, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "assign",
+      "ranges": [{ "startOffset": 3896, "endOffset": 3991, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

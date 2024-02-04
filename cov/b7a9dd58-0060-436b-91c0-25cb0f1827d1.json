@@ -1,0 +1,44 @@
+{
+  "scriptId": "368",
+  "url": "https://deno.land/std@0.211.0/dotenv/parse.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1935, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "expandCharacters",
+      "ranges": [{ "startOffset": 408, "endOffset": 584, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "expand",
+      "ranges": [
+        { "startOffset": 585, "endOffset": 1224, "count": 10 },
+        { "startOffset": 654, "endOffset": 1195, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 702, "endOffset": 1174, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parse",
+      "ranges": [
+        { "startOffset": 1232, "endOffset": 1934, "count": 1 },
+        { "startOffset": 1379, "endOffset": 1678, "count": 10 },
+        { "startOffset": 1570, "endOffset": 1587, "count": 0 },
+        { "startOffset": 1623, "endOffset": 1655, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1857, "endOffset": 1916, "count": 10 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

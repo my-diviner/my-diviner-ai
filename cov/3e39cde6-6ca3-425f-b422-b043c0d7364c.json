@@ -1,0 +1,41 @@
+{
+  "scriptId": "320",
+  "url": "https://esm.sh/v135/@langchain/core@0.1.22/denonext/embeddings.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1919, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "l",
+      "ranges": [{ "startOffset": 247, "endOffset": 618, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "n",
+      "ranges": [{ "startOffset": 627, "endOffset": 1238, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "call",
+      "ranges": [{ "startOffset": 1238, "endOffset": 1441, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "callWithOptions",
+      "ranges": [{ "startOffset": 1441, "endOffset": 1626, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetch",
+      "ranges": [{ "startOffset": 1626, "endOffset": 1706, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "o",
+      "ranges": [{ "startOffset": 1720, "endOffset": 1854, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

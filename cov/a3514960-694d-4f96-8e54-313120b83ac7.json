@@ -1,0 +1,11 @@
+{
+  "scriptId": "310",
+  "url": "file:///C:/Users/micha_8ygdgy8/Fathym/OpenSource/my-diviner/my-diviner-ai/tests/test.deps.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 163, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

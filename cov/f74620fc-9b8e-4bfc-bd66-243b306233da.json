@@ -1,0 +1,26 @@
+{
+  "scriptId": "482",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@azure/openai/1.0.0-beta.11/dist-esm/src/rest/isUnexpected.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3809, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isUnexpected",
+      "ranges": [{ "startOffset": 732, "endOffset": 1201, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getParametrizedPathSuccess",
+      "ranges": [{ "startOffset": 1202, "endOffset": 3650, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getPathFromMapKey",
+      "ranges": [{ "startOffset": 3651, "endOffset": 3768, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

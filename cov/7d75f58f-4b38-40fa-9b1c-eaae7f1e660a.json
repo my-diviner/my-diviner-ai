@@ -1,0 +1,159 @@
+{
+  "scriptId": "372",
+  "url": "file:///C:/Users/micha_8ygdgy8/AppData/Local/deno/npm/registry.npmjs.org/@langchain/core/0.1.22/dist/language_models/chat_models.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 16217, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createChatMessageChunkEncoderStream",
+      "ranges": [{ "startOffset": 448, "endOffset": 799, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BaseChatModel",
+      "ranges": [{ "startOffset": 1006, "endOffset": 1329, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_separateRunnableConfigFromCallOptions",
+      "ranges": [
+        { "startOffset": 1334, "endOffset": 1680, "count": 1 },
+        { "startOffset": 1518, "endOffset": 1540, "count": 0 },
+        { "startOffset": 1542, "endOffset": 1628, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "invoke",
+      "ranges": [
+        { "startOffset": 1909, "endOffset": 2272, "count": 1 },
+        { "startOffset": 2097, "endOffset": 2108, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_streamResponseChunks",
+      "ranges": [{ "startOffset": 2323, "endOffset": 2438, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_streamIterator",
+      "ranges": [{ "startOffset": 2443, "endOffset": 4456, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_generateUncached",
+      "ranges": [
+        { "startOffset": 4480, "endOffset": 6692, "count": 1 },
+        { "startOffset": 6412, "endOffset": 6423, "count": 0 },
+        { "startOffset": 6607, "endOffset": 6618, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4589, "endOffset": 4649, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5348, "endOffset": 5451, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 5582, "endOffset": 6209, "count": 1 },
+        { "startOffset": 5998, "endOffset": 6199, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6561, "endOffset": 6587, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_generateCached",
+      "ranges": [{ "startOffset": 6697, "endOffset": 9841, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "generate",
+      "ranges": [
+        { "startOffset": 10170, "endOffset": 12015, "count": 1 },
+        { "startOffset": 10310, "endOffset": 10368, "count": 0 },
+        { "startOffset": 10838, "endOffset": 12014, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 10473, "endOffset": 10533, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 11376, "endOffset": 11398, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 11485, "endOffset": 11904, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "invocationParams",
+      "ranges": [{ "startOffset": 12154, "endOffset": 12207, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_modelType",
+      "ranges": [{ "startOffset": 12212, "endOffset": 12266, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serialize",
+      "ranges": [{ "startOffset": 12362, "endOffset": 12524, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "generatePrompt",
+      "ranges": [{ "startOffset": 12860, "endOffset": 13084, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 12965, "endOffset": 13010, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "call",
+      "ranges": [{ "startOffset": 13474, "endOffset": 13720, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "callPrompt",
+      "ranges": [{ "startOffset": 14123, "endOffset": 14303, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "predictMessages",
+      "ranges": [{ "startOffset": 14709, "endOffset": 14824, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "predict",
+      "ranges": [{ "startOffset": 15196, "endOffset": 15533, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_generate",
+      "ranges": [{ "startOffset": 15703, "endOffset": 16214, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}
