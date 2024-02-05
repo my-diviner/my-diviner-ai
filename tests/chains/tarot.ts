@@ -1,9 +1,6 @@
 import {
-  assertEquals,
   awaitAllCallbacks,
   AzureChatOpenAI,
-  AzureOpenAIEmbeddings,
-  HumanMessage,
 } from '../test.deps.ts';
 
 Deno.test('Tarot Chain Tests', async (t) => {
@@ -24,7 +21,7 @@ Deno.test('Tarot Chain Tests', async (t) => {
 
   await t.step('Basic Tarot Reading Stream', async () => {
     model.streaming = true;
-    
+
     const res = await model.stream(
       'Question: What is my daily tarot reading with the 7 of pentacles, 2 of cups, and the King of cups?\nAnswer:'
     );
