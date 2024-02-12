@@ -7,3 +7,7 @@
 cov/
 denoKv/
 node_modules/
+build/
+coverage/
+lcov/
+target/

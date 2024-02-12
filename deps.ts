@@ -10,6 +10,7 @@ export { awaitAllCallbacks } from 'npm:@langchain/core/callbacks/promises';
 export {
   AIMessage,
   BaseMessage,
+  BaseMessageChunk,
   ChatMessage,
   FunctionMessage,
   HumanMessage,
@@ -20,6 +21,7 @@ export {
   MessagesPlaceholder,
 } from "npm:@langchain/core/prompts";
 export { RunnableLambda } from "npm:@langchain/core/runnables";
+export { IterableReadableStream } from "npm:@langchain/core/utils/stream";
 export { convertToOpenAIFunction } from 'npm:@langchain/core/utils/function_calling';
 export { StateGraph, END } from "npm:@langchain/langgraph";
 export { ToolExecutor } from 'npm:@langchain/langgraph/prebuilt';
